@@ -2,7 +2,7 @@ import pymongo
 from pymongo import MongoClient
 import json
 
-client = MongoClient("mongodb+srv://secretUser:agukalpa1234@cluster0-cem1l.azure.mongodb.net/data_phase1?ssl=true&ssl_cert_reqs=CERT_NONE")
+client = MongoClient("mongodb+srv://secretUser:*******@cluster0-cem1l.azure.mongodb.net/data_phase1?ssl=true&ssl_cert_reqs=CERT_NONE")
 db = client.data_phase1
 
 collection = db.GitHubClosedPRs
