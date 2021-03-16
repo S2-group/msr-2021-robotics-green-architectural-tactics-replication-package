@@ -27,7 +27,7 @@ If the dataset is helping your research, consider to cite it is as follows, than
   month = { May },
   publisher = { ACM },
   address = { New York, NY },
-  url = {http://www.ivanomalavolta.com/files/papers/MSR_2021_architectural_tactics.pdf}
+  url = {http://www.ivanomalavolta.com/files/papers/MSR_2021_ros_architectural_tactics.pdf}
 }
 
 ```
@@ -37,9 +37,9 @@ If the dataset is helping your research, consider to cite it is as follows, than
 
 The replication package is structured according to the research questions of the study (RQ1 and RQ2) and it is composed of the following elements:
 
-- **MSR_2021__architectural_tactics.pdf**: the scientific publication
-- **Supplementary Material (RQ1).pdf**: a 93-pages technical report providing the details about our mining activities and application of thematic analysis for identifying green architectural tactics for robotics software.
-- **Supplementary Material (RQ2).pdf**: a 75-pages technical report detailing the design, conduction, and results of the empirical assessment of the identified green tactics.
-- **RQ1_data_software**: the raw data and mining source code related to all the activities we carried out for answering RQ1.
-- **RQ2_data**: the raw data related to all the activities we carried out for answering RQ2.
-- **RQ2_ros_implementation**: the source code of the ROS-based system we implemented for performing the experiment in RQ2.
+- [MSR_2021_ros_architectural_tactics.pdf](MSR_2021_ros_architectural_tactics.pdf): the scientific publication
+- [Supplementary Material (RQ1).pdf]("Supplementary Material (RQ1).pdf"): a 93-pages technical report providing the details about our mining activities and application of thematic analysis for identifying green architectural tactics for robotics software.
+- [Supplementary Material (RQ2).pdf]("Supplementary Material (RQ2).pdf"): a 75-pages technical report detailing the design, conduction, and results of the empirical assessment of the identified green tactics.
+- [RQ1_data_software](RQ1_data_software): the raw data and mining source code related to all the activities we carried out for answering RQ1.
+- [RQ2_data](RQ2_data): the raw data related to all the activities we carried out for answering RQ2.
+- [RQ2_ros_implementation](RQ2_ros_implementation): the source code of the ROS-based system we implemented for performing the experiment in RQ2.
