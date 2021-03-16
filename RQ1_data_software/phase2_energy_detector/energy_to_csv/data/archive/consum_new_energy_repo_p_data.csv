@@ -1,0 +1,32 @@
+ID,URL,Repo Name,Collection,C/C++ Contents
+REPO_P0,https://github.com/ipa320/srs_public,srs_public,Repositories,{'message': 'no data'}
+REPO_P1,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,"{'GraphicsView': 'why, but for some reason this class likes to consume drag events'}"
+REPO_P2,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,"{'xdot': ""## Must call this as it has a side effect of consume further data.print 'graph:', xmin, ymin, xm""}"
+REPO_P3,https://github.com/start-jsk/rtmros_hironx,rtmros_hironx,Repositories,{'message': 'no data'}
+REPO_P4,https://github.com/JHS-ARCC-Club/jetson_car,jetson_car,Repositories,{'message': 'no data'}
+REPO_P5,https://github.com/AIS-Bonn/nimbro_network,nimbro_network,Repositories,{'message': 'no data'}
+REPO_P6,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'message': 'no data'}
+REPO_P7,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,"{'idl2srv': ""m_aist rtc-template -bcxx --module-name=%s --consumer=%s:service0:'%s' --consumer-idl=%s --idl-i""}"
+REPO_P8,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,{'message': 'no data'}
+REPO_P9,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,{'message': 'no data'}
+REPO_P10,https://bitbucket.org/whoidsl/ds_base,ds_base,Repositories,{'message': 'no data'}
+REPO_P11,https://github.com/RoboSherlock/robosherlock,robosherlock,Repositories,{'message': 'no data'}
+REPO_P12,https://github.com/ros-planning/moveit,moveit,Repositories,{'message': 'no data'}
+REPO_P13,https://github.com/AcutronicRobotics/moveit2,moveit2,Repositories,{'message': 'no data'}
+REPO_P14,https://github.com/felixendres/rgbdslam_v2,rgbdslam_v2,Repositories,{'message': 'no data'}
+REPO_P15,https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs,pandora_ros_pkgs,Repositories,{'message': 'no data'}
+REPO_P16,https://github.com/billieblaze/ROS_Rover_addons,ROS_Rover_addons,Repositories,{'message': 'no data'}
+REPO_P17,https://github.com/KCL-Planning/ROSPlan,ROSPlan,Repositories,{'message': 'no data'}
+REPO_P18,https://github.com/tuw-robotics/tuw_marker_detection,tuw_marker_detection,Repositories,{'message': 'no data'}
+REPO_P19,https://github.com/berkeleyopenarms/blue_core,blue_core,Repositories,{'message': 'no data'}
+REPO_P20,https://bitbucket.org/whoidsl/ds_sensors,ds_sensors,Repositories,{'message': 'no data'}
+REPO_P21,https://github.com/occamLab/tango_ros_bridge,tango_ros_bridge,Repositories,{'message': 'no data'}
+REPO_P22,https://github.com/fkie/iop_core,iop_core,Repositories,{'message': 'no data'}
+REPO_P23,https://github.com/team-vigir/vigir_footstep_planning_core,vigir_footstep_planning_core,Repositories,{'message': 'no data'}
+REPO_P24,https://github.com/b-it-bots/mas_domestic_robotics,mas_domestic_robotics,Repositories,{'message': 'no data'}
+REPO_P25,https://github.com/Nsteel/Apollo_13,Apollo_13,Repositories,{'message': 'no data'}
+REPO_P26,https://github.com/yijiangh/choreo,choreo,Repositories,{'message': 'no data'}
+REPO_P27,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'message': 'no data'}
+REPO_P28,https://github.com/jsk-ros-pkg/jsk_common,jsk_common,Repositories,{'message': 'no data'}
+REPO_P29,https://github.com/fetchrobotics/fetch_robots,fetch_robots,Repositories,{'message': 'no data'}
+REPO_P30,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,{'message': 'no data'}

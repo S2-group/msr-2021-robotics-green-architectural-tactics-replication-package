@@ -1,0 +1,211 @@
+ID,URL,Repo Name,Collection,Python Contents
+REPO_C0,https://github.com/redbirdrobotics/ros_redbird_m7a,ros_redbird_m7a,Repositories,"{'controlpanel_node_old': 'ts the element in the color column to either green or red row, tOrFString): UNCOMMENT THIS TO I'}"
+REPO_C1,https://github.com/redbirdrobotics/ros_redbird_m7a,ros_redbird_m7a,Repositories,"{'controlpanel_node': 'ts the element in the color column to either green or red row, tOrFString): UNCOMMENT THIS TO I'}"
+REPO_C2,https://github.com/redbirdrobotics/ros_redbird_m7a,ros_redbird_m7a,Repositories,{'greenrobot_node': 'ode data Search ROI Search Whole FrameCreate greenrobot Message Populate Robot information Crea'}
+REPO_C3,https://github.com/redbirdrobotics/ros_redbird_m7a,ros_redbird_m7a,Repositories,"{'landmark_node': 'cEdit & Show Frame ONLY FOR TESTING!!!! self.greengoal.drawLine(self._image, 30) self.redgoal.d'}"
+REPO_C4,https://github.com/robotics-in-concert/rocon_multimaster,rocon_multimaster,Repositories,"{'gateway_hub': 'ish between blocked and resend print(console.green + "" Action Connection w/ unsynchronised comp'}"
+REPO_C5,https://github.com/PR2/pr2_navigation,pr2_navigation,Repositories,{'pr2_move_base': 'boend TODO check for network cable check for power cable check for power cable TODO start the a'}
+REPO_C6,https://github.com/markusk/minibot,minibot,Repositories,{'lcd_test': '-Battery with 3 x 3.3Volt =  9.9 Volt (empty battery) 3S LiPo-Battery with 3 x 4.2Volt = 12.6 Vol'}
+REPO_C7,https://github.com/markusk/minibot,minibot,Repositories,"{'buttontest': 'python import time # for sleep for sleep for poweroff------ init------ use the GPIO names, _not'}"
+REPO_C8,https://github.com/markusk/minibot,minibot,Repositories,{'minibot': 'e.########## Threads##### read AD converter (battery voltage) use channel 0 on IC 2.73 V = 12.32 '}
+REPO_C9,https://github.com/markusk/minibot,minibot,Repositories,{'battery': ' Digital converter object read AD converter (battery voltage) use channel 0 on IC 13.44 Volt batt'}
+REPO_C10,https://github.com/markusk/minibot,minibot,Repositories,"{'powermonitor': '/pushbotton stuff ---------------------- for poweroff init use the GPIO names, _not_ the pin nu'}"
+REPO_C11,https://github.com/markusk/minibot,minibot,Repositories,{'battery_publisher': 'mestamp for NaN values (Not a Number) import power_supply.h we need a data type to publish the '}
+REPO_C12,https://github.com/spencer-project/spencer_people_tracking,spencer_people_tracking,Repositories,{'tracks_to_svg': 'ong as track exists## Track renderer ### red green blue magenta cyan yellow swap rows and colum'}
+REPO_C13,https://github.com/MalcolmMielle/Auto-Complete-Graph,Auto-Complete-Graph,Repositories,"{'t_test': 'cs with R"" by Peter Dalgaard daily intake of energy in kJ for 11 women one sample t-test null hy'}"
+REPO_C14,https://github.com/Bichette09/imaginarium,imaginarium,Repositories,{'settings_store_client': 's will listen controller.html page to manage power status'}
+REPO_C15,https://github.com/Bichette09/imaginarium,imaginarium,Repositories,{'gyro': '8 define MPU address wake up device and init power management PWR_MGMT_1 who am i configure gyr'}
+REPO_C16,https://github.com/Bichette09/imaginarium,imaginarium,Repositories,"{'actuatorESP32': 'TOP if we are about to close the node, or if power is disabled, emit neutral point rospy.logwar'}"
+REPO_C17,https://github.com/Bichette09/imaginarium,imaginarium,Repositories,"{'actuator': 'TOP if we are about to close the node, or if power is disabled, emit neutral point rospy.logwar'}"
+REPO_C18,https://bitbucket.org/udg_cirs/cola2_core,cola2_core,Repositories,"{'sim_internal_sensors': ' received in X seconds, abort mission Reduce battery level Publish diagnostic message'}"
+REPO_C19,https://bitbucket.org/udg_cirs/cola2_core,cola2_core,Repositories,{'vehicle_status_parser': 'or last nav data Create Publisher Initialize battery data Which value do I put? This should not b'}
+REPO_C20,https://github.com/fkie/multimaster_fkie,multimaster_fkie,Repositories,"{'master_view_proxy': ""ode does not respond: </b></font>'008000'  # greenFF6600'CC0000'FFCC00'0000CC'                i""}"
+REPO_C21,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,"{'hrpsys_dashboard': 'ationMode()"" HrpsysDashboard definitionself._power = HrpsysPowerMenu()'}"
+REPO_C22,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'diagnostics': '!/usr/bin/env python servo on calib done power on emergency mode'}
+REPO_C23,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,"{'collision_state': 'iORB.any root id color changes between 0.145(green) -> 0.02(red), under 0.02, it always red# co'}"
+REPO_C24,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,"{'ORBTest': "" worth it since we don't have the processing power for huge amounts of descriptorsFLANN_INDEX_K""}"
+REPO_C25,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,"{'SIFTTest': ""dinate origin and axis lines draw matches in green color draw only inliers cv2.putText(img3, 'T""}"
+REPO_C26,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,"{'ORBPoseEstimationFinal': ""em base draw coordinate axis draw matches in green color draw only inlierscv2.putText(img3, 'Tr""}"
+REPO_C27,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'altitude': 'baro - lila naze gps - red lidar - blue ir - green fused - grey'}
+REPO_C28,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'AxisItem': 'cs)# optimal minor tick spacing# the largest power-of-10 spacing which is smaller than optimal#'}
+REPO_C29,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,"{'shaders': ' colorMap[0] + colorMap[1], colorMap[2])#    green = pow(z * colorMap[3] + colorMap[4], colorMa'}"
+REPO_C30,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'GLAxisItem': 'le( GL_BLEND )glEnable( GL_ALPHA_TEST ) z is green y is yellow x is blue'}
+REPO_C31,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,"{'ColorMapWidget': ""N']nanColor = (nanColor.red()/255., nanColor.green()/255., nanColor.blue()/255., nanColor.alpha""}"
+REPO_C32,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'controller_node': '!/usr/bin/env python in Hz self.s = 3  # battery configuration 3s/4s self.v_c = 4.7  # voltag'}
+REPO_C33,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,"{'interface_mot-test': ')self.sendStartCoord(0.850, 2.770, 4.71238) #greenvioletprint ""================================'}"
+REPO_C34,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,{'interface_acc': 'ch state : get starter state : value == 0 -> green color value == 1 -> purple color def callbac'}
+REPO_C35,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,{'test_change_color_node': '!/usr/bin/env python value == 0 -> green color value == 1 -> purple color Define init'}
+REPO_C36,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,"{'interface_mot': ' self.sendStartCoord(0.850, 2.770, 4.71238) #greenself.sendStartCoord(0.850, 0.330, 1.57079)  #'}"
+REPO_C37,https://github.com/fetchrobotics/fetch_robots,fetch_robots,Repositories,"{'software_runstop': 'tware runstop, due to breaker states set via power_msgs persisting. Standard Library Third Part'}"
+REPO_C38,https://github.com/ros-interactive-manipulation/pr2_object_manipulation,pr2_object_manipulation,Repositories,{'reactive_grasp': 'bletable_height = .7366  #table in middle of green roomround tablefrom the topside approach/gra'}
+REPO_C39,https://github.com/leonard-lab/dcslROS,dcslROS,Repositories,"{'miabot_module': 'f the action is successful, the button turns green and if the action fails it turns red. @param'}"
+REPO_C40,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,{'boat_class': ' and avoid being at the 0/2*PI boundary on a powerup 1.4 rad/s~22 rpm 205/1023 is about 20% tor'}
+REPO_C41,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,{'dynamixel_io': 'tion modify EEPROM data which persists after power cycle ######################################'}
+REPO_C42,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'quadcopter_landing': 'ssed_frame,9,75,75)     landing_pad = filter_green_markers(blur_processed)     contours,hierarc'}"
+REPO_C43,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'cascade_blob_merge': 'ionsfinal_or_img = cv2.bitwise_or(yr_or_img, green_masked_img)kernel = np.ones((5,5),np.uint8)i'}"
+REPO_C44,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,{'azimuth_drive': 'trust (Not doing any nonlinear modelling for power cost) f in x f in y Moment about Z Early Che'}
+REPO_C45,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'find_signs_with_new_msg': "" for the detected shapecolor: 'black' 'red' 'green' 'blue'hsv[0,1,2]: HSV values for determinin""}"
+REPO_C46,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'find_signs_PVC': "" for the detected shapecolor: 'black' 'red' 'green' 'blue'hsv[0,1,2]: HSV values for determinin""}"
+REPO_C47,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'find_signs_8020': "" for the detected shapecolor: 'black' 'red' 'green' 'blue'hsv[0,1,2]: HSV values for determinin""}"
+REPO_C48,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'find_signs': "" for the detected shapecolor: 'black' 'red' 'green' 'blue'hsv[0,1,2]: HSV values for determinin""}"
+REPO_C49,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,"{'find_signs_sensitive': "" for the detected shapecolor: 'black' 'red' 'green' 'blue'hsv[0,1,2]: HSV values for determinin""}"
+REPO_C50,https://github.com/ipa320/cob_command_tools,cob_command_tools,Repositories,{'battery_monitor': 'ions and limitations under the License. % of battery level % of battery level % of battery level '}
+REPO_C51,https://github.com/super-owesome/bobble_controllers,bobble_controllers,Repositories,{'plots': ' The FFT of the signal And the power (sig_fft is of complex dtype) The correspond'}
+REPO_C52,https://bitbucket.org/mitchell_scott/sphero_swarm_ros,sphero_swarm_ros,Repositories,"{'sphero_class': 'ay, queue_size = 10)setup streaming    setup power notificationsetup collision detectionset the'}"
+REPO_C53,https://bitbucket.org/mitchell_scott/sphero_swarm_ros,sphero_swarm_ros,Repositories,{'sphero': 'bot.bt.target_address2)setup streaming setup power notificationsetup collision detectionset the'}
+REPO_C54,https://bitbucket.org/mitchell_scott/sphero_swarm_ros,sphero_swarm_ros,Repositories,{'updated_sphero_class': '.bt.target_address2)setup streaming    setup power notificationsetup collision detectionset the'}
+REPO_C55,https://bitbucket.org/mitchell_scott/sphero_swarm_ros,sphero_swarm_ros,Repositories,"{'move_sphero': 'ion located in specified file. Returns [left_power, right_power, left_state, right_state]'}"
+REPO_C56,https://bitbucket.org/mitchell_scott/sphero_swarm_ros,sphero_swarm_ros,Repositories,{'example': ' few notes: The sphero seems to work best at power values between 60 and 90 or so.Remember that'}
+REPO_C57,https://github.com/pbouffard/ccny-ros-pkg-pbouffard,ccny-ros-pkg-pbouffard,Repositories,{'monitor': '://en.wikipedia.org/wiki/Lithium-ion_polymer_battery Maximum Voltage Warning Voltage Minimum Volt'}
+REPO_C58,https://github.com/kuka-isir/cart_opt_ctrl,cart_opt_ctrl,Repositories,{'message': 'no data'}
+REPO_C59,https://github.com/ipab-slmc/exotica,exotica,Repositories,{'message': 'no data'}
+REPO_C60,https://github.com/ROBOTIS-GIT/ROBOTIS-OP3,ROBOTIS-OP3,Repositories,{'message': 'no data'}
+REPO_C61,https://github.com/sourishg/jackal-navigation,jackal-navigation,Repositories,{'message': 'no data'}
+REPO_C62,https://github.com/AUV-IITK/Anahita,Anahita,Repositories,{'message': 'no data'}
+REPO_C63,https://github.com/ipa320/cob_environment_perception,cob_environment_perception,Repositories,{'message': 'no data'}
+REPO_C64,https://github.com/PR2/pr2_plugs,pr2_plugs,Repositories,{'message': 'no data'}
+REPO_C65,https://github.com/ipa320/srs_public,srs_public,Repositories,{'message': 'no data'}
+REPO_C66,https://github.com/sigproc/qbo_sigproc,qbo_sigproc,Repositories,{'message': 'no data'}
+REPO_C67,https://github.com/introlab/rtabmap_ros,rtabmap_ros,Repositories,{'message': 'no data'}
+REPO_C68,https://github.com/PR2/pr2_robot,pr2_robot,Repositories,{'message': 'no data'}
+REPO_C69,https://github.com/pal-robotics/perception_blort,perception_blort,Repositories,{'message': 'no data'}
+REPO_C70,https://github.com/Pitt-RAS/iarc7_vision,iarc7_vision,Repositories,"{'filterbank': '=5)(delayed(convolve)(img, filt) for filt in battery) Reshape the input vectors into what tensorf'}"
+REPO_C71,https://github.com/robotics-upo/upo_robot_navigation,upo_robot_navigation,Repositories,{'message': 'no data'}
+REPO_C72,https://github.com/ridgeback/ridgeback_robot,ridgeback_robot,Repositories,{'message': 'no data'}
+REPO_C73,https://github.com/AIS-Bonn/nimbro_network,nimbro_network,Repositories,{'message': 'no data'}
+REPO_C74,https://github.com/dxydas/ros-bioloid,ros-bioloid,Repositories,{'message': 'no data'}
+REPO_C75,https://github.com/lucasw/imgui_ros,imgui_ros,Repositories,{'message': 'no data'}
+REPO_C76,https://github.com/mavlink/mavros,mavros,Repositories,{'message': 'no data'}
+REPO_C77,https://github.com/ros-perception/image_pipeline,image_pipeline,Repositories,{'calibrator': 'w calibration even if not all parameters are green TODO Awkward that we update self.goodenough '}
+REPO_C78,https://github.com/UTNuclearRoboticsPublic/jog_arm,jog_arm,Repositories,{'message': 'no data'}
+REPO_C79,https://github.com/CalPolyRobotics/IGVC-ROS,IGVC-ROS,Repositories,"{'demo': 'ransform matrix diameter list of RGB values (green) pose, color, scale, lifetime Publish a sphe'}"
+REPO_C80,https://github.com/RoboJackets/roboracing-software,roboracing-software,Repositories,{'dynamic_exposure': ' str(goalBrightness))set b and r to zero for greenscale im if shutter speed actually changed (s'}
+REPO_C81,https://github.com/IGVC-IITK/computer_vision,computer_vision,Repositories,{'message': 'no data'}
+REPO_C82,https://github.com/kucars/haptic_teleoperation,haptic_teleoperation,Repositories,{'message': 'no data'}
+REPO_C83,https://github.com/utexas-bwi/segbot,segbot,Repositories,{'voltmeter': 'ility options: initialize constant fields in battery message Parse serial message line into a lis'}
+REPO_C84,https://github.com/RoboSherlock/robosherlock,robosherlock,Repositories,{'message': 'no data'}
+REPO_C85,https://github.com/youbot/youbot-ros-pkg,youbot-ros-pkg,Repositories,{'message': 'no data'}
+REPO_C86,https://github.com/PR2/pr2_controllers,pr2_controllers,Repositories,{'message': 'no data'}
+REPO_C87,https://github.com/ros-planning/moveit,moveit,Repositories,{'message': 'no data'}
+REPO_C88,https://github.com/AcutronicRobotics/moveit2,moveit2,Repositories,{'message': 'no data'}
+REPO_C89,https://github.com/felixendres/rgbdslam_v2,rgbdslam_v2,Repositories,{'message': 'no data'}
+REPO_C90,https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs,pandora_ros_pkgs,Repositories,{'message': 'no data'}
+REPO_C91,https://github.com/jhu-lcsr/sp_segmenter,sp_segmenter,Repositories,{'message': 'no data'}
+REPO_C92,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'LEDDetector_forloops': 'pixel[0] # red channelintensity = pixel[1] # green channel blue channel HACK1  TODO change the '}
+REPO_C93,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,"{'dummy': 'pixel[0] # red channelintensity = pixel[1] # green channel blue channelthreshold into ""on"" and '}"
+REPO_C94,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'traffic_light_node': ' are off Move to next light in list Keep the green light on Turn off the green light Exit if li'}
+REPO_C95,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,"{'grid_helper_visualization': ""10,                         markeredgecolor='green',                        markeredgewidth=3, ""}"
+REPO_C96,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'Adafruit_ADS1x15': 'e ADC will do a single conversion and  enter power-off mode. Page 18 datasheet. Read the conver'}
+REPO_C97,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,"{'Adafruit_LSM303': '(10-bit) output mode. Low-res mode uses less power and sustains a higher update rate, output is'}"
+REPO_C98,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'copyOF_joy_mapper_node': 'ar - not set a specific paramLeft back buttonpower button (middle) note that this is toggle (ac'}
+REPO_C99,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'joy_mapper_node2': 'usedVariable @UnusedVariable @UnusedVariable power button (middle) @UnusedVariable bad - should'}
+REPO_C100,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,"{'graph': ""ttr.update(ratio = '0.7', inputscale = '1.3')greenblueredscript_dir = os.path.dirname(__file__)""}"
+REPO_C101,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'charging_control_node': 'the status to: ready to leave charging area (battery full) Request that Duckiebot should drive to'}
+REPO_C102,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'col_logging': ' methods we need to the class red red yellow green pink normal normal'}
+REPO_C103,https://github.com/billieblaze/ROS_Rover_addons,ROS_Rover_addons,Repositories,{'message': 'no data'}
+REPO_C104,https://github.com/KCL-Planning/ROSPlan,ROSPlan,Repositories,{'message': 'no data'}
+REPO_C105,https://github.com/start-jsk/rtmros_hironx,rtmros_hironx,Repositories,"{'hironx_client': ""o state check jname is acceptableself.rh_svc.power('all', SWITCH_ON)  #do not switch on before ""}"
+REPO_C106,https://github.com/start-jsk/rtmros_hironx,rtmros_hironx,Repositories,"{'hironx_dashboard': ""MAGE.14.0416.04ffffff; background-color: darkgreen;')""}"
+REPO_C107,https://github.com/ildoonet/tf-pose-estimation,tf-pose-estimation,Repositories,"{'network_mobilenet_thin': ""lt 'global_step' not in v.op.name and 'beta1_power' not in v.op.name and 'beta2_power' not in v""}"
+REPO_C108,https://github.com/ildoonet/tf-pose-estimation,tf-pose-estimation,Repositories,"{'network_mobilenet_v2': ""lt 'global_step' not in v.op.name and 'beta1_power' not in v.op.name and 'beta2_power' not in v""}"
+REPO_C109,https://github.com/yujinrobot/kobuki,kobuki,Repositories,"{'test_external_power': 'h, uses -p option.""print """"print ""p: publish power on/off status""print "" [ On] [Off] [ On] [Off'}"
+REPO_C110,https://github.com/yujinrobot/kobuki,kobuki,Repositories,{'inf_rotation': 't into continual rotation - useful for aging/battery tests.'}
+REPO_C111,https://github.com/yujinrobot/kobuki,kobuki,Repositories,"{'DockDriveControl': ""cel_dock', Empty),      'e':(self.pub['motor_power'].publish,MotorPower(MotorPower.ON),'enabled""}"
+REPO_C112,https://github.com/sbrodeur/ros-icreate-bbb,ros-icreate-bbb,Repositories,{'behaviours': '            # Activation of behaviour        batteryLevel = float(state.battery.batteryCharge) / '}
+REPO_C113,https://github.com/sbrodeur/ros-icreate-bbb,ros-icreate-bbb,Repositories,{'visualize_hdf5': 'from clock Select only the subset related to battery voltage and current (respectively) Convert c'}
+REPO_C114,https://github.com/inomuh/evapi_ros,evapi_ros,Repositories,{'message': 'no data'}
+REPO_C115,https://github.com/BCLab-UNM/SwarmBaseCode-ROS,SwarmBaseCode-ROS,Repositories,{'message': 'no data'}
+REPO_C116,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,{'message': 'no data'}
+REPO_C117,https://github.com/AutonomyLab/bebop_autonomy,bebop_autonomy,Repositories,{'message': 'no data'}
+REPO_C118,https://github.com/linorobot/linorobot,linorobot,Repositories,{'message': 'no data'}
+REPO_C119,https://github.com/irvs/ros_tms,ros_tms,Repositories,"{'tms_ur_listener_server': ' = self.announce(error_msg1)     self.julius_power(True,tim.sec)     return False else:     pri'}"
+REPO_C120,https://github.com/AutonomyLab/create_autonomy,create_autonomy,Repositories,{'message': 'no data'}
+REPO_C121,https://github.com/bluesat/owr_software,owr_software,Repositories,{'message': 'no data'}
+REPO_C122,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'qbo_energy': ""n   attention shutdown soon... when you plug power on qbo side, you'll hear : charging !! charg""}"
+REPO_C123,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'dhtgui': ""D), red=wx.Brush('#ff0000', style=wx.SOLID), green=wx.Brush('#008000', style=wx.SOLID))d0d0d0',""}"
+REPO_C124,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'red_cyan_anaglyph': 'H_8U, 4)cyan (remove red?)red (remove blue?, green?)remove blue & green from left => redremove '}"
+REPO_C125,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'qbo_http_api_login': 'com>;## Tornado security issues  ### We give green light if the requests are comming from local'}
+REPO_C126,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'qbo_energy_new': 'n speak just one time can speak when plug in power if unplugged, robot uses it internal battery'}"
+REPO_C127,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'ball_color_publisher': ' video topic stream,  search ball color (red/green/blue)  color is published in topic : /ball_c'}"
+REPO_C128,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'qbo_face_analysis': 'mach ready for use for nose color modif. for green tracking box localization in picture for act'}
+REPO_C129,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'play_music': 'ize=10) # nose colorself.no_nose = Falseself.green_nose = False clear xmms2_server  add all mus'}
+REPO_C130,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'neo_faceDetection': ""h strings : 'yes' or 'no' robot nose becomes green when seen face, and turns off when unseen. -""}"
+REPO_C131,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'calibrator': 'w calibration even if not all parameters are green TODO Awkward that we update self.goodenough '}
+REPO_C132,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'contours': ' will draw contours draw contours in red and green finally, show the image create the image whe'}"
+REPO_C133,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'lkdemo': ""s, don't use it too close draw the points as green circles we want to add a point refine this c""}"
+REPO_C134,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'convexhull': 'Draw the convex hull as a closed polyline in green display the final image handle events, and w'}"
+REPO_C135,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,"{'color': '//1 - navy008000"",  #{   0, 128,   0 },//2 - green008080"",  #{   0, 128, 128 },//3 - teal800000'}"
+REPO_C136,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'tickets': 'red triangle Draw the convex hull as a thick green line Draw the original contour as a white li'}
+REPO_C137,https://github.com/PilzDE/pilz_robots,pilz_robots,Repositories,{'status_indicator_widget_unit_test': 'cks within the widget Testing if light turns green for status True Testing if light turns red f'}
+REPO_C138,https://github.com/rospilot/rospilot,rospilot,Repositories,{'message': 'no data'}
+REPO_C139,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,"{'wiimote_node': 'g.rumble) + ""\\n    Battery: ["" + str(msg.raw_battery) + "","" + str(msg.percent_battery))rospy.logd'}"
+REPO_C140,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,{'wiimoteConstants': ' = 10 Indices into a two-tuple of info about battery state in wiimote messages:   0: Percentage o'}
+REPO_C141,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,"{'WIIMote': "": 4, 'buttons': 0, 'rumble': 0, 'error': 0, 'battery': 85};;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;""}"
+REPO_C142,https://github.com/osu-uwrt/riptide_software,riptide_software,Repositories,{'message': 'no data'}
+REPO_C143,https://bitbucket.org/auengagroactu_sens/dji_matrice100_onboard_sdk_ros,dji_matrice100_onboard_sdk_ros,Repositories,{'message': 'no data'}
+REPO_C144,https://github.com/ros-planning/navigation2,navigation2,Repositories,{'message': 'no data'}
+REPO_C145,https://bitbucket.org/whoidsl/ds_base,ds_base,Repositories,{'message': 'no data'}
+REPO_C146,https://github.com/jhu-asco/aerial_autonomy,aerial_autonomy,Repositories,{'message': 'no data'}
+REPO_C147,https://github.com/jsk-ros-pkg/jsk_robot,jsk_robot,Repositories,{'message': 'no data'}
+REPO_C148,https://github.com/craftit/DogBotSoftware,DogBotSoftware,Repositories,{'message': 'no data'}
+REPO_C149,https://github.com/occamLab/tango_ros_bridge,tango_ros_bridge,Repositories,{'message': 'no data'}
+REPO_C150,https://github.com/jsk-ros-pkg/jsk_visualization,jsk_visualization,Repositories,{'message': 'no data'}
+REPO_C151,https://github.com/cpaxton/costar_stack,costar_stack,Repositories,{'instructor_snapshot_event': 'nt of the goal state Turn highlighted region green Add border around image Ensure contiguous an'}
+REPO_C152,https://github.com/cpaxton/costar_stack,costar_stack,Repositories,"{'instructor_gui_components': ""x; }'''666666; w = ItemButton(g_name,colors['green_light'],10,fold=False,callback=self.selected""}"
+REPO_C153,https://github.com/cpaxton/costar_stack,costar_stack,Repositories,{'x_pick_volume': 'lor in/out of radius regions Color in-radius green Color out-of-radius red Step 3: Select radiu'}
+REPO_C154,https://github.com/cpaxton/costar_stack,costar_stack,Repositories,{'snapshot': 'lor in/out of radius regions Color in-radius green Color out-of-radius red Step 3: Select radiu'}
+REPO_C155,https://github.com/cpaxton/costar_stack,costar_stack,Repositories,{'pick_volume': 'lor in/out of radius regions Color in-radius green Color out-of-radius red Step 3: Select radiu'}
+REPO_C156,https://github.com/CopterExpress/clever,clever,Repositories,{'message': 'no data'}
+REPO_C157,https://github.com/fkie/iop_core,iop_core,Repositories,{'message': 'no data'}
+REPO_C158,https://github.com/jsk-ros-pkg/jsk_recognition,jsk_recognition,Repositories,{'message': 'no data'}
+REPO_C159,https://github.com/JHS-ARCC-Club/jetson_car,jetson_car,Repositories,{'BNO055': 'nds (this seems to be necessary after a hard power down). Swallow an IOError that might be rais'}
+REPO_C160,https://github.com/JHS-ARCC-Club/jetson_car,jetson_car,Repositories,{'hal_env': ' if neededWhen the sign changes on pose then power*lastPose will be negative85 = minor axis of '}
+REPO_C161,https://github.com/olin-robotic-sailing/oars-roboboat,oars-roboboat,Repositories,"{'simulator_main': 'Sr = shadow_ratio(model.relwindcomp) PrJib = power_ratio(self.JibPos,model.relwindcomp)*self.st'}"
+REPO_C162,https://github.com/team-vigir/vigir_footstep_planning_core,vigir_footstep_planning_core,Repositories,{'message': 'no data'}
+REPO_C163,https://github.com/b-it-bots/mas_domestic_robotics,mas_domestic_robotics,Repositories,{'message': 'no data'}
+REPO_C164,https://github.com/AutoRally/autorally,autorally,Repositories,"{'systemStatus': 'emStatus  Gets the wireless signal strength, power status, and CPU temperature. This informatio'}"
+REPO_C165,https://github.com/Nsteel/Apollo_13,Apollo_13,Repositories,{'message': 'no data'}
+REPO_C166,https://github.com/RightHandRobotics/reflex-ros-pkg,reflex-ros-pkg,Repositories,{'message': 'no data'}
+REPO_C167,https://github.com/RoboJackets/igvc-software,igvc-software,Repositories,{'message': 'no data'}
+REPO_C168,https://github.com/at-wat/mcl_3dl,mcl_3dl,Repositories,{'message': 'no data'}
+REPO_C169,https://github.com/uwreact/frc_control,frc_control,Repositories,{'communications': 'map from Windows to UFW TODO: Should this be green when the firewall is on or off? Pretty sure '}
+REPO_C170,https://github.com/uwreact/frc_control,frc_control,Repositories,{'pc_stats': 'y default values until first update Read the power supply status TODO: Display power icon while'}
+REPO_C171,https://github.com/tork-a/rtmros_nextage,rtmros_nextage,Repositories,{'message': 'no data'}
+REPO_C172,https://github.com/corobotics/corobot-kinetic,corobot-kinetic,Repositories,"{'manage': 'te, (serverSocket,)) Akshay - End of new codebatteryLevel = float(dArray.status[2].values[3].valu'}"
+REPO_C173,https://github.com/corobotics/corobot-kinetic,corobot-kinetic,Repositories,"{'monitor': '%f"", self.currNewGoal.x, self.currNewGoal.y, batteryThread.homeCoordinates.x, batteryThread.homeC'}"
+REPO_C174,https://github.com/yijiangh/choreo,choreo,Repositories,{'message': 'no data'}
+REPO_C175,https://github.com/UBC-Thunderbots/Softwareubc,Softwareubc,Repositories,{'message': 'no data'}
+REPO_C176,https://github.com/robotican/lizi,lizi,Repositories,{'message': 'no data'}
+REPO_C177,https://github.com/NiryoRobotics/niryo_one_ros,niryo_one_ros,Repositories,{'message': 'no data'}
+REPO_C178,https://github.com/PX4/avoidance,avoidance,Repositories,{'message': 'no data'}
+REPO_C179,https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-MPC,ROBOTIS-THORMANG-MPC,Repositories,{'message': 'no data'}
+REPO_C180,https://github.com/utexas-bwi/bwi_common,bwi_common,Repositories,{'message': 'no data'}
+REPO_C181,https://github.com/UbiquityRobotics/ubiquity_launches,ubiquity_launches,Repositories,{'message': 'no data'}
+REPO_C182,https://github.com/gribot-robotics/gribot_ros,gribot_ros,Repositories,{'message': 'no data'}
+REPO_C183,https://github.com/omwdunkley/crazyflieROS,crazyflieROS,Repositories,{'crazyradio': 'onconfiguration constantsReset the dongle to power up settings## Dongle configuration ### Auto '}
+REPO_C184,https://github.com/SJSU-AD/FusionAD,FusionAD,Repositories,{'can_control_adapter': 'bitration IDs ################### propulsion power request arbitration id arbitration id for co'}
+REPO_C185,https://github.com/SJSU-AD/FusionAD,FusionAD,Repositories,{'can_ardu_interface': '/env python initializing the node propulsion power request arbitration id arbitration id for co'}
+REPO_C186,https://github.com/DrawZeroPoint/drv_package_v2,drv_package_v2,Repositories,{'message': 'no data'}
+REPO_C187,https://github.com/Kivo0/Visual-Servoing-ROS,Visual-Servoing-ROS,Repositories,{'message': 'no data'}
+REPO_C188,https://github.com/ros-industrial-consortium/trajopt_ros,trajopt_ros,Repositories,{'message': 'no data'}
+REPO_C189,https://github.com/airalab/robonomics_comm,robonomics_comm,Repositories,{'message': 'no data'}
+REPO_C190,https://github.com/pantor/ros-control-center,ros-control-center,Repositories,{'message': 'no data'}
+REPO_C191,https://github.com/doosan-robotics/doosan-robot,doosan-robot,Repositories,{'message': 'no data'}
+REPO_C192,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'propellerbot_node': 'y do this once, and let it continue until AC power is disconnected Slow backup until unplugged '}"
+REPO_C193,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'arlobot_safety': 'r not Track battery I am going to set the AC power status as a parameter, so that it can be che'}"
+REPO_C194,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'arlobot_movement_test': 'ase_link transform! I am going to set the AC power status as a parameter, so that it can be che'}"
+REPO_C195,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'arlobot_gohome': 'ase_link transform! I am going to set the AC power status as a parameter, so that it can be che'}"
+REPO_C196,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'arlobot_quaternion_test': 'iable with the data I am going to set the AC power status as a parameter, so that it can be che'}"
+REPO_C197,https://github.com/ros-industrial/universal_robot,universal_robot,Repositories,{'message': 'no data'}
+REPO_C198,https://bitbucket.org/_Luc_/hand_control,hand_control,Repositories,{'message': 'no data'}
+REPO_C199,https://github.com/tork-a/jog_control,jog_control,Repositories,{'message': 'no data'}
+REPO_C200,https://github.com/ethz-asl/cuckoo_time_translator,cuckoo_time_translator,Repositories,{'message': 'no data'}
+REPO_C201,https://github.com/OUXT-Polaris/robotx_packages,robotx_packages,Repositories,{'message': 'no data'}
+REPO_C202,https://github.com/patrickelectric/bluerov_ros_playground,bluerov_ros_playground,Repositories,{'message': 'no data'}
+REPO_C203,https://github.com/Kinovarobotics/kinova-ros,kinova-ros,Repositories,{'message': 'no data'}
+REPO_C204,https://github.com/berkeleyopenarms/blue_core,blue_core,Repositories,{'message': 'no data'}
+REPO_C205,https://github.com/rapp-project/rapp-platform,rapp-platform,Repositories,{'sphinx4_wrapper': 'ssing.rapp_audio_processing.AudioProcessing::energy_denoise# @brief Detect silence service clien'}
+REPO_C206,https://github.com/rapp-project/rapp-platform,rapp-platform,Repositories,{'denoise_unit_tests': 'heck for the denoised file Check if denoised energy is lower than the initial one erase the deno'}
+REPO_C207,https://github.com/rapp-project/rapp-platform,rapp-platform,Repositories,{'energy_denoise_unit_tests': 'heck for the denoised file Check if denoised energy is lower than the initial one erase the deno'}
+REPO_C208,https://github.com/rapp-project/rapp-platform,rapp-platform,Repositories,{'rapp_energy_denoise': 'sardou@iti.gr# @class EnergyDenoise Performs energy denoising on an audio file# Performs energy-'}
+REPO_C209,https://github.com/rapp-project/rapp-platform,rapp-platform,Repositories,{'rapp_audio_processing': 'ect_silence.DetectSilence# Instantiates rapp_energy_denoise.EnergyDenoise# Instantiates rapp_sox'}

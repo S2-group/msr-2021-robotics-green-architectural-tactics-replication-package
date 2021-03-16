@@ -1,0 +1,45 @@
+ID,URL,Repo Name,Collection,C/C++ Contents
+REPO_C0,https://github.com/ipa320/srs_public,srs_public,Repositories,{'message': 'no data'}
+REPO_C1,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'message': 'no data'}
+REPO_C2,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,{'message': 'no data'}
+REPO_C3,https://github.com/start-jsk/rtmros_hironx,rtmros_hironx,Repositories,{'message': 'no data'}
+REPO_C4,https://github.com/JHS-ARCC-Club/jetson_car,jetson_car,Repositories,{'message': 'no data'}
+REPO_C5,https://github.com/AIS-Bonn/nimbro_network,nimbro_network,Repositories,{'udp_sender': 'at has some data for us. Note that we do not consume the message! No data yet Get the topic name'}
+REPO_C6,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'cvhaartraining': 'lsqsum / area - ( valsum / are )^2 ) * area  consumed counter  private variables  end private va'}
+REPO_C7,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'gtest-all': 'le as a decimal integer. NOLINT Has strtol() consumed all characters in the string? No - an inva'}
+REPO_C8,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'ts_gtest': 'le as a decimal integer. NOLINT Has strtol() consumed all characters in the string? No - an inva'}
+REPO_C9,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'HrpsysSeqStateROSBridgeImpl': 'er Set service provider to Ports Set service consumers to Ports Set CORBA Service Ports </rtc-te'}
+REPO_C10,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'RangeSensorROSBridge': 'er Set service provider to Ports Set service consumers to Ports Set CORBA Service Ports </rtc-te'}
+REPO_C11,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'ImageSensorROSBridge': 'er Set service provider to Ports Set service consumers to Ports Set CORBA Service Ports </rtc-te'}
+REPO_C12,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'PointCloudROSBridge': 'er Set service provider to Ports Set service consumers to Ports Set CORBA Service Ports </rtc-te'}
+REPO_C13,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,{'wiimote_controller': 've a bluetooth address passed in? Try not to consume a ROS arg/param 10Hz'}
+REPO_C14,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,"{'jdsample': 'fer is emptied, declare this input row group consumed  safety check  Generate one output row wit'}"
+REPO_C15,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,"{'jcapistd': 'tly compress the row.  If compressor did not consume the whole row, suspend processing.  OK, we '}"
+REPO_C16,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,{'jdmaster': 's.  Initialize input side of decompressor to consume first scan.  Estimate number of scans to se'}
+REPO_C17,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,"{'jdmainct': '.  Feed the postprocessor  Has postprocessor consumed all the data yet? If so, mark buffer empty'}"
+REPO_C18,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,"{'jdmerge': 'fer is emptied, declare this input row group consumed  1:1 vertical sampling case: much easier, '}"
+REPO_C19,https://bitbucket.org/whoidsl/ds_base,ds_base,Repositories,"{'ds_serial': 'l received: "" << raw_data_.data.data()); The consume method of the streambuffer marks as used th'}"
+REPO_C20,https://github.com/RoboSherlock/robosherlock,robosherlock,Repositories,"{'ActiveMQAnalysisEngineService': ' to set it.str << params.getBrokerURL() << ""?consumer.prefetchSize="" << params.getPrefetchSize()'}"
+REPO_C21,https://github.com/RoboSherlock/robosherlock,robosherlock,Repositories,{'pythonnator': '------------------------------- */ // use casconsumer version so that both annotators and cascon'}
+REPO_C22,https://github.com/ros-planning/moveit,moveit,Repositories,{'shape_mask': 'lelization as it can result in very high CPU consumption#pragma omp parallel for schedule(dynami'}
+REPO_C23,https://github.com/AcutronicRobotics/moveit2,moveit2,Repositories,{'shape_mask': 'lelization as it can result in very high CPU consumption#pragma omp parallel for schedule(dynami'}
+REPO_C24,https://github.com/felixendres/rgbdslam_v2,rgbdslam_v2,Repositories,{'rand': 'ts.  It can be shown that this\t\twill exactly consume all n points.\t\tThis procedure makes use of '}
+REPO_C25,https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs,pandora_ros_pkgs,Repositories,"{'hole_fusion': 'nerated for them, and time is not wastefully consumed. Apply all active filters and obtain a 2D '}"
+REPO_C26,https://github.com/billieblaze/ROS_Rover_addons,ROS_Rover_addons,Repositories,{'AccelStepper': '0 0010 0110 01000101 00011001 Prevents power consumption on the outputs Handles inversion automa'}
+REPO_C27,https://github.com/KCL-Planning/ROSPlan,ROSPlan,Repositories,{'POPFPlannerInterface': ' planer check the planner solved the problem consume useless lines read a plan (might not be the'}
+REPO_C28,https://github.com/KCL-Planning/ROSPlan,ROSPlan,Repositories,{'LPGPlannerInterface': 'ct path check the planner solved the problem consume useless lines extract second block of unint'}
+REPO_C29,https://github.com/tuw-robotics/tuw_marker_detection,tuw_marker_detection,Repositories,"{'markerdetector': 've homographywarping is one of the most time consuming operations, especially when the region is'}"
+REPO_C30,https://github.com/berkeleyopenarms/blue_core,blue_core,Repositories,{'json': '. Break on Moc OS 9 EOL. stopgap for already consumed character integral part fractional part ex'}
+REPO_C31,https://bitbucket.org/whoidsl/ds_sensors,ds_sensors,Repositories,{'microstrainahrs': ' to the start of the next set of bytes to be consumed sanity-check fields sanity-check header si'}
+REPO_C32,https://github.com/occamLab/tango_ros_bridge,tango_ros_bridge,Repositories,{'message': 'no data'}
+REPO_C33,https://github.com/fkie/iop_core,iop_core,Repositories,{'message': 'no data'}
+REPO_C34,https://github.com/team-vigir/vigir_footstep_planning_core,vigir_footstep_planning_core,Repositories,{'message': 'no data'}
+REPO_C35,https://github.com/b-it-bots/mas_domestic_robotics,mas_domestic_robotics,Repositories,{'message': 'no data'}
+REPO_C36,https://github.com/Nsteel/Apollo_13,Apollo_13,Repositories,{'message': 'no data'}
+REPO_C37,https://github.com/yijiangh/choreo,choreo,Repositories,{'GteShader': 'penGL does not have the concept of an append-consume type structured buffer nor does it have the'}
+REPO_C38,https://github.com/yijiangh/choreo,choreo,Repositories,"{'GteFluid3InitializeSource': 'consisting of a producer of\\n"" density and a consumer of density.\\n"" Compute an input to the flu'}"
+REPO_C39,https://github.com/yijiangh/choreo,choreo,Repositories,"{'GteFluid2InitializeSource': 'consisting of a producer of\\n"" density and a consumer of density.\\n"" Compute an input to the flu'}"
+REPO_C40,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'message': 'no data'}
+REPO_C41,https://github.com/jsk-ros-pkg/jsk_common,jsk_common,Repositories,{'message': 'no data'}
+REPO_C42,https://github.com/fetchrobotics/fetch_robots,fetch_robots,Repositories,{'message': 'no data'}
+REPO_C43,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,{'message': 'no data'}

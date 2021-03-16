@@ -1,0 +1,326 @@
+  {
+    "title": "About the Aerial Vehicles category",
+    "thread_contents": [
+      "This category is a place for discussions about aerial vehicles. There is a growing community of people using ROS on aerial vehicles.",
+      "This category aims to be a place where people can discuss best practices, standardization, and any other topics relevant to flying in the ROS ecosystem.",
+      "This is an evolution of the ROS SIG MAV ",
+      " mailing list. There are archives there of the old conversations, and for continuity posts to this category will be forwarded to that mailing list.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-aerial-vehicles-category/284"
+  },
+  {
+    "title": "About the General category",
+    "thread_contents": [
+      "News and general discussion about ROS. Kind of like the “ros-users” of ",
+      ".",
+      "\n",
+      " Please ask on ",
+      " following our ",
+      ". This is not the right place.",
+      "Do you have a new release or update you’d like to announce or are you just interested in keeping track of what is new and shiny? This guideline is to help provide us (the community) with a convention that will make this easier.",
+      "An announcement thread should be focused on pointing people at the right places to get them started.",
+      "Both source and binary (e.g. OSRF build farm) release announcements are encouraged. Provide a small introduction, some indicator of its status, pointers to links showing how people can get started with your release. You might also like to mention what you’re looking for as well - e.g. are you looking for collaboration or use cases to help drive some experimental design or feedback to decide whether there’s interest enough to support a source release as a binary release? This can help users more readily align with you.",
+      "It ",
+      " contain documentation or instructions, point to links elsewhere.",
+      "It ",
+      " be a forum for technical questions, redirect these to issue trackers, ros answers or similar.",
+      "If you do not wish to track the high volume general category itself, simply set your preferences to follow the ",
+      " tag.",
+      "You can ",
+      " all previously release announcements by searching for the ",
+      " tag.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "thread_details": [
+      "Post in the ",
+      "\n",
+      "Add the tag ",
+      "\n"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-general-category/36"
+  },
+  {
+    "title": "MoveIt! migrating from Google Groups to Discourse",
+    "thread_contents": [
+      "Welcome to ",
+      "'s new home for project announcements, future development roadmaps, releases, and high level community discussion. ",
+      " For user questions, please post on ",
+      " and tag with ‘moveit’ - all off topic questions will be deleted from this Discourse category.",
+      "This forum replaces the now deprecated ",
+      " but you are welcome to search its archives for past discussions and answers.",
+      "Join the discussion here if:",
+      "The MoveIt! conversion from Google Groups to Discourse should now be complete (this is the test). The old moveit users Google Group should now be read only.",
+      "Existing topics are not auto watched. I’ve manually watched this one and testing again. New topics should be auto watched.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "thread_details": [
+      "You use or are interested in using MoveIt! and want to hear the latest updates and changes",
+      "You want to make community announcements about MoveIt!",
+      "You are interested in creating a major new feature and want to get feedback",
+      "You want to learn more about becoming a tester, developer, or maintainer of MoveIt!"
+    ],
+    "url": "https://discourse.ros.org/t/moveit-migrating-from-google-groups-to-discourse/4334"
+  },
+  {
+    "title": "About the MoveIt category",
+    "thread_contents": [
+      "Welcome to ",
+      "'s new home for project announcements, future roadmaps, releases, and high level questions. ",
+      " For user questions, please post on ",
+      " and tag with ‘moveit’ - all off topic questions will be deleted from this Discourse category.",
+      "Join the discussion here if:",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "thread_details": [
+      "You use or are interested in using MoveIt! and want to hear the latest updates and changes in the community",
+      "You are interested in creating a major new feature and want to get feedback",
+      "You want to learn more about becoming a tester, developer, or maintainer of MoveIt!"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-moveit-category/263"
+  },
+  {
+    "title": "About the Next Generation ROS category",
+    "thread_contents": [
+      "This is a forum to talk about the next generation of ROS.",
+      "This is a new forum for the ROS SIG NG ROS: ",
+      "\nPlease browse there for past conversations. For continuity and archival purposes we will setup a forwarder to forward emails from this category to that mailing list but will disable posting to that list to focus the conversation here.",
+      "This forum is for discussing the development of ROS 2.0.",
+      "Developer events can be found in the ROS Events Calendar:",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-next-generation-ros-category/538"
+  },
+  {
+    "title": "ROS Users welcome to discourse.ros.org",
+    "thread_contents": [
+      "Hi Everyone,",
+      "We’re moving the ros-users discussions onto ",
+      ". For continuity all discussions there will be forwarded to ros-users. It’s recommended to create an account there, customize your notifications, and unsubscribe to ros-users. Direct postings to ros-users will be disabled.",
+      "As many of you are aware we’ve been migrating ROS discussion forums to be hosted at ",
+      "There are many reasons for the migration. We have discovered that in general there are users who want to get notifications about everything, as well as users who want to be able to get notifications only about specific topics. And another large demographic of users are those who are not subscribed but want to browse and search through historical communications.",
+      "The use of the Discourse engine lets each users tailor their personal settings to get as many or as few email notifications as they want. And it provides a much better experience for those browsing and searching historical conversations.",
+      "We’ve created ",
+      " based on the existing active special interest group mailing lists. In addition based on discussions on the ros-users mailing list we’ve also setup some categories such as ",
+      " ",
+      " and ",
+      "Meta discussions about how to best organize the site have a category ",
+      "In experimenting with the site there are two common modes emails about everything, and emails from certain categories.",
+      "To get emails about everything check the box “mailing list mode” in your profile preferences.",
+      "You can mute categories and the mailing list mode will respect that, but otherwise you’ll get all emails.",
+      "To get emails about certain categories that you care about, check the box “Send me an email when someone quotes me, replies to my post, mentions my ",
+      ", or invites me to a topic” and  uncheck the mailing list mode.",
+      "Then add a selection of categories you’re interested to the “Watched” group.",
+      "There are other settings for summaries, ",
+      "  etc. Feel free to select or deselect them as you wish.",
+      "To ease the transition we have setup all content from the forum to be forwarded to ros-users.  This will allow existing subscribers to continue to not miss out on content and announcements.",
+      "Once you have created an account on ",
+      " and setup your notifications as you prefer it’s likely that you will want to unsubscribe or turn off delivery from the ros-users mailing list.",
+      "All the categories have a short name (it’s usually the url) Once you have setup your account you can post to each group by using the email ",
+      " and any email from ",
+      " should also support replying to add your reply to the thread.",
+      "There are lots of things to learn about how to best take advantage of the new system. If you have thoughts suggestions or feedback please start a thread in the ",
+      " category.",
+      "I just noticed that the ros-users forwarding got interrupted shortly after it was setup. It’s back on now.",
+      "There’s been about 15 to 20 threads in that time. You can catch up on them by browsing: ",
+      "The delivery was interrupted again. I’ve diagnosed it that the mailing list is forwarding the unsubscribe link for discourse. If anyone on the mailing list unsubscribes using the Discourse unsubscribe link, the ros-users mailing list is unsubscribed for everyone. If you would like to unsubscribe from ros-users please using the link at the very bottom.",
+      "Sorry to everyone who’s messages have been dropped on the ros-users forwarding. We’ve restructured how messages are forwarded and hope to avoid unsubscribing the whole list going forward.",
+      "Sorry, messages got dropped again. I have manually forwarded new threads excluding a few that I started that are out of date. They should appear in the near future and new posts will come through again.",
+      "Hi Tully,",
+      "\nI noticed that the recent switch from the mailing list to Discourse is not yet being reflected on the wiki: ",
+      "If there are no objections, I’d update the page.",
+      " Marcus",
+      "Thanks Marcus, that would be great.",
+      "Done. Everyone, please feel free to review and adjust.",
+      "I think we may also want to mention it in these pages as well:",
+      "Thanks ",
+      " I’ve updated content at all those links.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/ros-users-welcome-to-discourse-ros-org/551"
+  },
+  {
+    "title": "About the Autoware category",
+    "thread_contents": [
+      "Welcome to ",
+      " forum for project announcements, future development roadmaps, releases, and community discussion.",
+      "Join the discussion here if:",
+      "For those looking for an invite to the slack group, this web app will generate an invite for you:",
+      "\n",
+      "The Autoware support guidelines link in the top post is out of date. ",
+      "Thanks for letting us know. I’ve updated the link.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "thread_details": [
+      "You use or are interested in using Autoware and want to hear the latest updates and changes",
+      "You want to make community announcements about Autoware",
+      "You are interested in creating a major new feature and want to get feedback",
+      "You want to learn more about becoming a tester, developer, or maintainer of Autoware"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-autoware-category/7278"
+  },
+  {
+    "title": "About the ROS Projects category",
+    "thread_contents": [
+      "ROS Projects - a place for the community to discuss any projects they are (or would like to be) working on, from the smallest of tweaks to the largest of ventures. Somewhere we can come together to get help and feedback; give advice and opinions; publicize and discover; contribute to and learn from the various ROS-related projects that we are all working on.",
+      "This is as proposed ",
+      " If you have feedback or suggestions please follow up in that thread.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-ros-projects-category/175"
+  },
+  {
+    "title": "About the Quality Assurance category",
+    "thread_contents": [
+      "A dedicated place for quality assurance discussion, where we can explain, promote, develop and discuss QA practices, techniques and tools. This is for everybody, from the quality enthusiast, who cares about quality of ROS, to a community member who has a question or feedback. Here, you can get help about QA practices and processes, discuss ROS quality and contribute to ongoing ROS QA initiatives and activities, and provide feedback on the ongoing QA work.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-quality-assurance-category/3597"
+  },
+  {
+    "title": "About the Multi-Robot Systems category",
+    "thread_contents": [
+      "The Multi-Robot Operations category contains discussions on all aspects of tooling for multi-robot systems.",
+      "Relevant topics include fleet management, multi-fleet integration, traffic/spatial planning, large-scale multi-robot simulation, and other related areas.",
+      "Hi! Is there some discussion about a set of algorithms to distribuite a large scale number of robots in simulation with some criteria, for example, uniform distribution along an axis or random distribution in the 3D or 2D plane in the space?",
+      "Could you please post this as a question. (Or can some mod move it to be a separate question ",
+      " ?)",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-multi-robot-systems-category/11803"
+  },
+  {
+    "title": "About the OpenEmbedded category",
+    "thread_contents": [
+      "The goal of the ROS Layer for OpenEmbedded Linux is to create a layer to cross-compile ROS and set up a Linux & ROS infrastructure for various embedded systems. In the end, setting up a ROS infrastructure for an embedded system should be as easy as currently for a Ubuntu system.",
+      "In collaboration with the ROS core developers, our secondary goal is to improve the ROS build system and the ROS packages, such that they can be cross-compiled without further ado.",
+      "Furthermore, this code could serve as a good starting point for others that are interested in packaging ROS, e.g., for Gentoo, as OpenEmbedded Linux and Gentoo are related to some extent.",
+      "\nThe project is open-source and available at ",
+      ". Feedback and contributions of any kind are welcome.",
+      "This is a migration of the ",
+      " For earlier discussions please see those archives.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-openembedded-category/666"
+  },
+  {
+    "title": "About the Client Libraries category",
+    "thread_contents": [
+      "This category is for discussing topics on everything related to ROS client libraries.",
+      "Use this category for announcements, discussions, planning, organizing meetings and sharing design ideas and projects related to libraries used for writing ROS applications such as roscpp and rospy.",
+      "Questions on specific usage or problems should go to ROS Answers: ",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-client-libraries-category/455"
+  },
+  {
+    "title": "About the Embedded category",
+    "thread_contents": [
+      "This category is to discuss methods to bridge to, integrate, and otherwise incorporate embedded systems in the Robot Operating System ( ROS, ",
+      " )",
+      "This category is replacing the old mailing list: ",
+      " as the forum for the ROS SIG Embedded: ",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-embedded-category/136"
+  },
+  {
+    "title": "About the Drivers category",
+    "thread_contents": [
+      "Our group has been operating continuously since the end of 2011. We mainly focus on defining common interfaces and best practices, so various classes of drivers work consistently with other ROS components. Please join us if you are interested and willing to contribute.",
+      "This group previously was available on google groups: ",
+      " and before that on ",
+      " (defunct)",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-drivers-category/8878"
+  },
+    {
+    "title": "About the Computer Vision / Perception category",
+    "thread_contents": [
+      "Discussion on object recognition, visual sensors, and other computer vision and perception concepts in ROS.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-computer-vision-perception-category/1814"
+  },
+  {
+    "title": "About the TurtleBot category",
+    "thread_contents": [
+      "This is a forum for TurtleBot users to communicate.",
+      "If you are looking for help solving a problem or getting something working please continue to ask questions on ",
+      " There is a large knowledge base there of ",
+      " on the site.",
+      "This is a forum for discussions of interest to large portions of the TurtleBot users community.",
+      "Please use this for:",
+      "This category is replacing our ",
+      " Content from this forum will be cc’d there for archival purposes, but posting there will not longer be supported.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "thread_details": [
+      "Community discussions",
+      "Announcements"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-turtlebot-category/242"
+  },
+  {
+    "title": "About the Maritime Robotics category",
+    "thread_contents": [
+      "This category has been setup to provide a forum for groups and individuals using ROS for robotic applications under and at the water surface. Some distinct issues associated with maritime applications include integration of maritime specific sensors (e.g., Doppler velocity logs, multibeam sonar, etc.), intermittent communication and navigation, the influence of buoyancy and hydrodynamics on mobile platforms and the influence of the underwater/near-surface environment on perception.",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-maritime-robotics-category/3492"
+  },
+  {
+    "title": "About the ARIAC users category",
+    "thread_contents": [
+      "This category is for participants in the Agile Robotics for Industrial Automation Competition (ARIAC)",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-ariac-users-category/529"
+  },
+  {
+    "title": "About the robot description formats category",
+    "thread_contents": [
+      "This category is for discussing robot description formats and the surrounding tools:",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "thread_details": [
+      "URDF",
+      "SDF",
+      "parsers and robot_model tools",
+      "Solidworks and other CAD tools exporters",
+      "The next generation?"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-robot-description-formats-category/27"
+  },
+  {
+    "title": "About the Humanoids category",
+    "thread_contents": [
+      "The Humanoids SIG will work to expand the core ROS capabilities for humanoid robot platforms. Areas of interest include motion planning and control for bipedal mobility, arm control and dexterous manipulation, and coordinated whole body movement.",
+      "This grew out of a discussion ",
+      ".",
+      "Powered by ",
+      ", best viewed with JavaScript enabled"
+    ],
+    "url": "https://discourse.ros.org/t/about-the-humanoids-category/2092"
+  },
+  

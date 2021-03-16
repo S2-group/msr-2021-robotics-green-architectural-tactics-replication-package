@@ -1,0 +1,95 @@
+W0,https://wiki.ros.org/power_msgs,Wiki,power_msgs,ROS messages for power measurement and breaker control. ,0,0,1,0,0
+W1,https://wiki.ros.org/laptop_battery_monitor,Wiki,laptop_battery_monitor,Simple script to check battery status,1,0,0,0,0
+W2,https://wiki.ros.org/ps3joy,Wiki,ps3joy,"f>
+<n>: inactivity timeout in seconds (saves battery life).
+<f>: file name to redirect output to.",1,0,0,0,0
+W3,https://wiki.ros.org/turtlebot3_autorace_detect,Wiki,turtlebot3_autorace_detect,"----- parameter for HSL detection of traffic green light --------------#
+gen.add(""hue_green_l"",",0,0,0,0,13
+W4,https://wiki.ros.org/webui,Wiki,webui,"v_element"" objtype=PercentTextWidget topic=""/power_state"" num=""a"" div=""b""/></div>var PercentTex",0,0,1,0,0
+W5,https://wiki.ros.org/rr_openrover_driver_msgs,Wiki,rr_openrover_driver_msgs,"2 reg_motor_charger_state
+std_msgs/int32 reg_power_a_current
+std_msgs/int32 reg_power_b_current",8,0,4,0,0
+W6,https://wiki.ros.org/rl_env,Wiki,rl_env, --env type [options]taxi tworooms fourrooms energy fuelworld mcar cartpole car2to7 car7to2 carr,0,1,0,0,0
+W7,https://wiki.ros.org/rl_experiment,Wiki,rl_experiment,lore dyna savedpolicytaxi tworooms fourrooms energy fuelworld mcar cartpole car2to7 car7to2 carr,0,1,0,0,0
+W8,https://wiki.ros.org/rospatlite,Wiki,rospatlite,patlite ip>patlite ip~set/red~set/yellow~set/green~set/blue~set/white~set/buzzer~hoststring~por,0,0,0,0,1
+W9,https://wiki.ros.org/mavros,Wiki,mavros,de~setpoint_velocity/cmd_vel_unstamped~state~battery~battery~extended_state~set_stream_rate~set_m,2,0,0,0,0
+W10,https://wiki.ros.org/rosflight,Wiki,rosflight,udeattitudeairspeedattitudeattitude/eulerbarobatterygnssgnss_rawimu/dataimu/temperaturemagnetomet,1,0,0,0,0
+W11,https://wiki.ros.org/turtlebot3_bringup,Wiki,turtlebot3_bringup,"or starting the TurtleBot3 
+
+
+
+
+cmd_velmotor_powerresetsoundbattery_statecmd_vel_rc100diagnosti",1,0,1,0,0
+W12,https://wiki.ros.org/linksys_access_point,Wiki,linksys_access_point,n access point for Linksys access points.  txpower_autoFalseManualWireless/Basic Wireless Setti,0,0,1,0,0
+W13,https://wiki.ros.org/xbot_node,Wiki,xbot_node,motor_disabled/sensors/sound_enabled/sensors/battery/sensors/echo/sensors/infrared/sensors/imu_da,1,0,0,0,0
+W14,https://wiki.ros.org/realsense_camera,Wiki,realsense_camera,r/image_rawuint16imu/data_rawget_settingsset_powertruefalsefalseforce_powertruefalsefalseis_pow,0,0,5,0,0
+W15,https://wiki.ros.org/pr2_dashboard_aggregator,Wiki,pr2_dashboard_aggregator,_aggregatorpr2.launchpr2_dashboard_aggregatorpower_board/statepower_stateddwrt/accesspointpr2_e,0,0,2,0,0
+W16,https://wiki.ros.org/ueye_cam,Wiki,ueye_cam,ble~auto_gainbool~master_gainint~red_gainint~green_gainint~blue_gainint~gain_boostbool~auto_exp,0,0,0,0,1
+W17,https://wiki.ros.org/access_point_control,Wiki,access_point_control,enwepwpawpa2wpa_wpa2~encryption_passstring~txpower_autobool~txpowerinttxpower_autoFalse~bitrate,0,0,3,0,0
+W18,https://wiki.ros.org/rr_openrover_basic,Wiki,rr_openrover_basic,_basic/raw_slow_rate_data/rr_openrover_basic/battery_status_a/rr_openrover_basic/battery_status_b,2,0,0,0,0
+W19,https://wiki.ros.org/pr2_gazebo_plugins,Wiki,pr2_gazebo_plugins,kBaseline>GazeboRosPowerNode<robotNamespace><powerStateTopic><powerStateRate><fullChargeCapacit,0,0,13,0,0
+W20,https://wiki.ros.org/pr2_run_stop_auto_restart,Wiki,pr2_run_stop_auto_restart," on, this node will automatically enable the power to the motors, and reset
+   the motors. This",0,0,4,0,0
+W21,https://wiki.ros.org/kobuki_auto_docking,Wiki,kobuki_auto_docking,s nest autonomously.~odom~core~dock_ir~motor_power~velocity~odom~core~dock_ir~motor_power~veloc,0,0,2,0,0
+W22,https://wiki.ros.org/power_monitor,Wiki,power_monitor,The power_monitor collects messages from the ocean_bat,3,0,10,0,0
+W23,https://wiki.ros.org/rr_openrover_driver,Wiki,rr_openrover_driver,"nostic data such as encoder
+    readings and battery charge. 
+
+
+
+
+
+
+ This code is for those worki",3,0,0,0,0
+W24,https://wiki.ros.org/kobuki_node,Wiki,kobuki_node,apper for the Kobuki driver. ~commands/motor_power~commands/external_power~commands/reset_odome,6,0,6,0,0
+W25,https://wiki.ros.org/rmp_base,Wiki,rmp_base," published such as odometry, imu, mottor and battery status, ...
+
+
+
+The rmp_base package provides",3,0,0,0,0
+W26,https://wiki.ros.org/actionlib_lisp,Wiki,actionlib_lisp,n server and the client is a little bit more powerful than the simple action client but not as ,0,0,1,0,0
+W27,https://wiki.ros.org/kdl_parser,Wiki,kdl_parser,"RDF. 
+
+ If you want to take advantage of the powerful features of the , the kdl parser provides",0,0,1,0,0
+W28,https://wiki.ros.org/xacro,Wiki,xacro,"f defined inside of a . See . 
+: 
+: The more powerful evaluation capabilities in ROS Jade allow",0,0,1,0,0
+W29,https://wiki.ros.org/velodyne_driver,Wiki,velodyne_driver,apper providing some obscure options for the powerful  command. Other methods of acquiring PCAP,0,0,1,0,0
+W30,https://wiki.ros.org/ros_control,Wiki,ros_control,and the . From the above it can be seen that power remains constant between input and output. C,0,0,1,0,0
+W31,https://wiki.ros.org/wiimote,Wiki,wiimote,"umble (vibrator),
+    buttons, joystick, and battery state. The node additionally enables ROS
+   ",4,0,0,0,0
+W32,https://wiki.ros.org/rosmsg,Wiki,rosmsg,formation for developers and also serve as a powerful introspection tool for learning more abou,0,0,1,0,0
+W33,https://wiki.ros.org/rosserial_embeddedlinux,Wiki,rosserial_embeddedlinux,"l, and consumes under 10 watts of electrical power. This makes them expandable and interesting ",0,0,1,0,0
+W34,https://wiki.ros.org/m4atx_battery_monitor,Wiki,m4atx_battery_monitor,ckage will read the information from a m4atx battery supply and publish it as a ros message. Loca,11,0,0,0,0
+W35,https://wiki.ros.org/rc_visard_driver,Wiki,rc_visard_driver,"isard for loading it after a SLAM restart or power cycle: The onboard  node can be ""reset"" (cle",0,0,1,0,0
+W36,https://wiki.ros.org/schunk_powercube_chain,Wiki,schunk_powercube_chain,"a configurable driver of a chain
+  of Schunk powercubes. The powercube chain is configured
+  th",0,0,5,0,0
+W37,https://wiki.ros.org/ridgeback_msgs,Wiki,ridgeback_msgs,"nitor system state such as voltage, current, battery, faults, etc. ",1,0,0,0,0
+W38,https://wiki.ros.org/smart_battery_msgs,Wiki,smart_battery_msgs,"olete package. Could not find package ""smart_battery_msgs"" in rosdoc: /home/rosbot/docs/api/smart",2,0,0,0,0
+W39,https://wiki.ros.org/kobuki_dashboard,Wiki,kobuki_dashboard,"rd is also part of the . In order to get the battery statuses, you need to launch the . $ roslaun",1,0,0,0,0
+W40,https://wiki.ros.org/spatial_world_model,Wiki,spatial_world_model,"ntries within a graph database. By doing so, powerful search queries to can written such as ""gi",0,0,2,0,0
+W41,https://wiki.ros.org/hostapd_access_point,Wiki,hostapd_access_point," WPA security with the chosen password, a TX power level of 8 dBm and a TX bitrate of 24Mbit/s.",0,0,6,0,0
+W42,https://wiki.ros.org/ros_ethernet_rmp,Wiki,ros_ethernet_rmp," of the , 'rmp_pose_updater.py' and  nodes. 'battery_monitor_rmp.launch' from 'battery_monitor_rm",4,0,0,0,0
+W43,https://wiki.ros.org/stereo_slam,Wiki,stereo_slam, library for graph optimization and uses the power of  to find loop closures between graph node,0,0,1,0,0
+W44,https://wiki.ros.org/tuw_multi_robot,Wiki,tuw_multi_robot,ments on the tuw_multi_robot framework.  The green boxes show already existing modules while th,0,0,0,0,1
+W45,https://wiki.ros.org/lex_node,Wiki,lex_node,"ex, the same deep learning technologies that power Amazon Alexa are now available to any develo",0,0,1,0,0
+W46,https://wiki.ros.org/ocean_battery_driver,Wiki,ocean_battery_driver,"er than , which is where you should look for power data.  
+ () 
+ (, default: if no value specif",5,0,1,0,0
+W47,https://wiki.ros.org/robot_pose_ekf,Wiki,robot_pose_ekf,"robot started from a given initial position (green dot), driven around, and returned to the ini",0,0,0,0,1
+W48,https://wiki.ros.org/pr2_bringup,Wiki,pr2_bringup,"the PR2 starts up for the first time since a power down, it will move its arms, casters, head a",0,0,1,0,0
+W49,https://wiki.ros.org/mongodb_log,Wiki,mongodb_log, made based on the time of the message. More powerful queries and usage of the data is only pos,0,0,1,0,0
+W50,https://wiki.ros.org/pr2_power_board,Wiki,pr2_power_board," the PR2 Power Board.
+ controls with the PR2 power board.  The API below is for informational p",2,0,6,0,0
+W51,https://wiki.ros.org/pr2_power_drivers,Wiki,pr2_power_drivers,".
+ contains the drivers that control the PR2 power system.  You should look at  for reading the",0,0,3,0,0
+W52,https://wiki.ros.org/smacha,Wiki,smacha,"n the foreground, while retaining all of its power and flexibility in Jinja2-based templates an",0,0,2,0,0
+W53,https://wiki.ros.org/retalis,Wiki,retalis,he memory instance in the latter case is the power of two of the size of the memory instance in,0,0,1,0,8
+W54,https://wiki.ros.org/omip,Wiki,omip,"es and therefore requires less computational power.  To try this option, download one of the ro",0,0,1,0,0
+W55,https://wiki.ros.org/phm_tools,Wiki,phm_tools,"t.  In order to calculate hazard rate of the power card sub-module, we utilized diodes, capacit",1,0,2,0,0
+W56,https://wiki.ros.org/move_base_to_manip,Wiki,move_base_to_manip,of interest. The desired EE pose is shown in green. The second image shows the freshly-calculat,0,0,0,0,1
+W57,https://wiki.ros.org/openni_tracker,Wiki,openni_tracker,"er nodes to run (however, make sure your  is powered. For example, on ,  needs to be run succes",0,0,1,0,0
+W58,https://wiki.ros.org/battery_monitor_rmp,Wiki,battery_monitor_rmp,s and then uses espeak to tell the user if a battery is getting low. It also publishes this infor,11,0,0,0,0
+W59,https://wiki.ros.org/class_loader,Wiki,class_loader,in with an incompatible interface. This is a powerful concept in guaranteeing the integrity of ,0,0,1,0,0

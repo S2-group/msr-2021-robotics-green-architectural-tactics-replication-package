@@ -1,0 +1,588 @@
+[
+  {
+    "url": "https://bitbucket.org/_Luc_/hand_control",
+    "commits": 283,
+    "prs": 2,
+    "contributors": 7,
+    "cpp": 5,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://bitbucket.org/AndyZe/pid",
+    "commits": 121,
+    "prs": 11,
+    "contributors": 8,
+    "cpp": 6,
+    "py": 0,
+    "md": 0
+  },
+  {
+    "url": "https://github.com/at-wat/mcl_3dl",
+    "commits": 256,
+    "issues": 101,
+    "prs": 221,
+    "contributors": 6,
+    "cpp": 30,
+    "py": 0,
+    "md": 5
+  },
+  {
+    "url": "https://github.com/at-wat/neonavigation",
+    "commits": 519,
+    "issues": 147,
+    "prs": 352,
+    "contributors": 14,
+    "cpp": 62,
+    "py": 0,
+    "md": 11
+  },
+  {
+    "url": "https://github.com/autonohm/ohm_tsd_slam",
+    "commits": 225,
+    "issues": 3,
+    "prs": 16,
+    "contributors": 12,
+    "cpp": 9,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/AutonomyLab/create_autonomy",
+    "commits": 137,
+    "issues": 42,
+    "prs": 22,
+    "contributors": 7,
+    "cpp": 1,
+    "py": 0,
+    "md": 3
+  },
+  {
+    "url": "https://github.com/byu-magicc/rosplane",
+    "commits": 200,
+    "issues": 30,
+    "prs": 44,
+    "contributors": 20,
+    "cpp": 11,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/dxydas/ros-bioloid",
+    "commits": 117,
+    "issues": 2,
+    "prs": 1,
+    "contributors": 3,
+    "cpp": 31,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/eborghi10/my_ROS_mobile_robot",
+    "commits": 128,
+    "issues": 7,
+    "prs": 1,
+    "contributors": 2,
+    "cpp": 2,
+    "py": 0,
+    "md": 13
+  },
+  {
+    "url": "https://github.com/ekumenlabs/tangobot",
+    "commits": 157,
+    "issues": 81,
+    "prs": 49,
+    "contributors": 3,
+    "cpp": 2,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/enesdemirag/point-cloud-filters",
+    "commits": 205,
+    "issues": 1,
+    "prs": 1,
+    "contributors": 3,
+    "cpp": 16,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/evocortex/optris_drivers",
+    "commits": 128,
+    "issues": 17,
+    "prs": 17,
+    "contributors": 15,
+    "cpp": 4,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/Flos/ros-image_cloud",
+    "commits": 221,
+    "issues": 1,
+    "prs": 0,
+    "contributors": 2,
+    "cpp": 12,
+    "py": 0,
+    "md": 0
+  },
+  {
+    "url": "https://github.com/gribot-robotics/gribot_ros",
+    "commits": 109,
+    "issues": 15,
+    "prs": 21,
+    "contributors": 3,
+    "cpp": 2,
+    "py": 0,
+    "md": 7
+  },
+  {
+    "url": "https://github.com/HJReachability/fastrack",
+    "commits": 278,
+    "issues": 6,
+    "prs": 4,
+    "contributors": 6,
+    "cpp": 26,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/hrnr/m-explore",
+    "commits": 238,
+    "issues": 39,
+    "prs": 4,
+    "contributors": 4,
+    "cpp": 8,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/hrnr/robo-rescue",
+    "commits": 154,
+    "issues": 1,
+    "prs": 36,
+    "contributors": 2,
+    "cpp": 12,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/husky/husky",
+    "commits": 453,
+    "issues": 69,
+    "prs": 61,
+    "contributors": 30,
+    "cpp": 13,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/husky/husky_robot",
+    "commits": 303,
+    "issues": 3,
+    "prs": 10,
+    "contributors": 19,
+    "cpp": 13,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/inomuh/evapc_ros",
+    "commits": 155,
+    "issues": 4,
+    "prs": 0,
+    "contributors": 3,
+    "cpp": 1,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/iscumd/Yeti2018",
+    "commits": 104,
+    "issues": 30,
+    "prs": 26,
+    "contributors": 8,
+    "cpp": 17,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/Jaeyoung-Lim/mavros_controllers",
+    "commits": 256,
+    "issues": 41,
+    "prs": 82,
+    "contributors": 9,
+    "cpp": 10,
+    "py": 0,
+    "md": 3
+  },
+  {
+    "url": "https://github.com/jakeware/global_mapper",
+    "commits": 117,
+    "issues": 0,
+    "prs": 3,
+    "contributors": 4,
+    "cpp": 2,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/kucars/haptic_teleoperation",
+    "commits": 148,
+    "issues": 0,
+    "prs": 0,
+    "contributors": 10,
+    "cpp": 26,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/laboshinl/loam_velodyne",
+    "commits": 150,
+    "issues": 123,
+    "prs": 32,
+    "contributors": 17,
+    "cpp": 13,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/leggedrobotics/darknet_ros",
+    "commits": 275,
+    "issues": 195,
+    "prs": 47,
+    "contributors": 21,
+    "cpp": 4,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/lfermin77/Incremental_DuDe_ROS",
+    "commits": 107,
+    "issues": 3,
+    "prs": 4,
+    "contributors": 3,
+    "cpp": 30,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://bitbucket.org/_Luc_/hand_control",
+    "commits": 283,
+    "prs": 2,
+    "contributors": 7,
+    "cpp": 5,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/linorobot/linorobot",
+    "commits": 212,
+    "issues": 29,
+    "prs": 12,
+    "contributors": 9,
+    "cpp": 15,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/MichalDobis/osm_planner",
+    "commits": 124,
+    "issues": 5,
+    "prs": 0,
+    "contributors": 5,
+    "cpp": 9,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/Nishida-Lab/forest_robot_project",
+    "commits": 268,
+    "issues": 10,
+    "prs": 25,
+    "contributors": 8,
+    "cpp": 22,
+    "py": 0,
+    "md": 3
+  },
+  {
+    "url": "https://github.com/OSLL/slam-constructor",
+    "commits": 252,
+    "issues": 3,
+    "prs": 13,
+    "contributors": 11,
+    "cpp": 31,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/OSLL/tiny-slam-ros-cpp",
+    "commits": 123,
+    "issues": 1,
+    "prs": 24,
+    "contributors": 5,
+    "cpp": 2,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/prajankya/AgriMapper",
+    "commits": 249,
+    "issues": 13,
+    "prs": 2,
+    "contributors": 2,
+    "cpp": 12,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/RCPRG-ros-pkg/elektron_robot",
+    "commits": 102,
+    "issues": 0,
+    "prs": 1,
+    "contributors": 7,
+    "cpp": 1,
+    "py": 0,
+    "md": 0
+  },
+  {
+    "url": "https://github.com/ridgeback/ridgeback",
+    "commits": 141,
+    "issues": 8,
+    "prs": 30,
+    "contributors": 8,
+    "cpp": 3,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/ridgeback/ridgeback_robot",
+    "commits": 211,
+    "issues": 5,
+    "prs": 21,
+    "contributors": 7,
+    "cpp": 5,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/RIVeR-Lab/wpi_jaco",
+    "commits": 347,
+    "issues": 27,
+    "prs": 27,
+    "contributors": 13,
+    "cpp": 7,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/robotican/lizi",
+    "commits": 102,
+    "issues": 3,
+    "prs": 0,
+    "contributors": 3,
+    "cpp": 5,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/ROBOTIS-GIT/ROBOTIS-OP3",
+    "commits": 274,
+    "issues": 65,
+    "prs": 30,
+    "contributors": 15,
+    "cpp": 21,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-MPC",
+    "commits": 321,
+    "issues": 6,
+    "prs": 28,
+    "contributors": 15,
+    "cpp": 16,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/ros-industrial-consortium/descartes",
+    "commits": 400,
+    "issues": 116,
+    "prs": 129,
+    "contributors": 19,
+    "cpp": 29,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/ros-industrial/abb",
+    "commits": 288,
+    "issues": 71,
+    "prs": 105,
+    "contributors": 29,
+    "cpp": 2,
+    "py": 0,
+    "md": 3
+  },
+  {
+    "url": "https://github.com/ros-industrial/fanuc",
+    "commits": 517,
+    "issues": 163,
+    "prs": 126,
+    "contributors": 15,
+    "cpp": 35,
+    "py": 0,
+    "md": 49
+  },
+  {
+    "url": "https://github.com/ros-industrial/fanuc_experimental",
+    "commits": 270,
+    "issues": 25,
+    "prs": 28,
+    "contributors": 10,
+    "cpp": 4,
+    "py": 0,
+    "md": 7
+  },
+  {
+    "url": "https://github.com/ros-industrial/industrial_core",
+    "commits": 354,
+    "issues": 115,
+    "prs": 140,
+    "contributors": 43,
+    "cpp": 49,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://github.com/ros-industrial/industrial_moveit",
+    "commits": 629,
+    "issues": 36,
+    "prs": 65,
+    "contributors": 32,
+    "cpp": 45,
+    "py": 0,
+    "md": 3
+  },
+  {
+    "url": "https://github.com/ros-industrial/kuka_experimental",
+    "commits": 114,
+    "issues": 95,
+    "prs": 72,
+    "contributors": 16,
+    "cpp": 4,
+    "py": 0,
+    "md": 6
+  },
+  {
+    "url": "https://github.com/ros-planning/moveit_pr2",
+    "commits": 677,
+    "issues": 32,
+    "prs": 79,
+    "contributors": 35,
+    "cpp": 36,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/ros-planning/navigation_experimental",
+    "commits": 268,
+    "issues": 24,
+    "prs": 24,
+    "contributors": 28,
+    "cpp": 8,
+    "py": 0,
+    "md": 8
+  },
+  {
+    "url": "https://github.com/skasperski/navigation_2d",
+    "commits": 154,
+    "issues": 49,
+    "prs": 7,
+    "contributors": 3,
+    "cpp": 56,
+    "py": 0,
+    "md": 2
+  },
+  {
+    "url": "https://bitbucket.org/Tabjones/pacman_vision",
+    "commits": 346,
+    "prs": 0,
+    "contributors": 4,
+    "cpp": 21,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/Texas-Aerial-Robotics/Controls-ROS",
+    "commits": 153,
+    "issues": 1,
+    "prs": 4,
+    "contributors": 18,
+    "cpp": 13,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/tu-darmstadt-ros-pkg/hector_localization",
+    "commits": 236,
+    "issues": 11,
+    "prs": 7,
+    "contributors": 10,
+    "cpp": 28,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/tu-darmstadt-ros-pkg/hector_slam",
+    "commits": 270,
+    "issues": 51,
+    "prs": 20,
+    "contributors": 20,
+    "cpp": 13,
+    "py": 0,
+    "md": 0
+  },
+  {
+    "url": "https://github.com/turtlebot/turtlebot_interactions",
+    "commits": 140,
+    "issues": 6,
+    "prs": 2,
+    "contributors": 11,
+    "cpp": 1,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/tuw-robotics/tuw_marker_detection",
+    "commits": 122,
+    "issues": 4,
+    "prs": 2,
+    "contributors": 7,
+    "cpp": 62,
+    "py": 0,
+    "md": 1
+  },
+  {
+    "url": "https://github.com/UTNuclearRoboticsPublic/jog_arm",
+    "commits": 322,
+    "issues": 65,
+    "prs": 42,
+    "contributors": 14,
+    "cpp": 4,
+    "py": 0,
+    "md": 3
+  },
+  {
+    "url": "https://github.com/xuefengchang/micros_swarm_framework",
+    "commits": 182,
+    "issues": 8,
+    "prs": 2,
+    "contributors": 6,
+    "cpp": 48,
+    "py": 0,
+    "md": 2
+  }
+]

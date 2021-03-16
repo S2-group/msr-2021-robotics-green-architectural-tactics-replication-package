@@ -1,0 +1,157 @@
+ID,URL,Repo Name,Collection,MD Contents,C++ Contents,Python Contents
+REPO_MD0,https://github.com/redbirdrobotics/ros_redbird_m7a,ros_redbird_m7a,Repositories,{'message': 'no data'}
+REPO_MD1,https://github.com/robotics-in-concert/rocon_multimaster,rocon_multimaster,Repositories,{'message': 'no data'}
+REPO_MD2,https://github.com/PR2/pr2_navigation,pr2_navigation,Repositories,{'message': 'no data'}
+REPO_MD3,https://github.com/markusk/minibot,minibot,Repositories,{'message': 'no data'}
+REPO_MD4,https://github.com/spencer-project/spencer_people_tracking,spencer_people_tracking,Repositories,{'message': 'no data'}
+REPO_MD5,https://github.com/MalcolmMielle/Auto-Complete-Graph,Auto-Complete-Graph,Repositories,{'message': 'no data'}
+REPO_MD6,https://github.com/Bichette09/imaginarium,imaginarium,Repositories,{'message': 'no data'}
+REPO_MD7,https://bitbucket.org/udg_cirs/cola2_core,cola2_core,Repositories,{'message': 'no data'}
+REPO_MD8,https://github.com/fkie/multimaster_fkie,multimaster_fkie,Repositories,{'message': 'no data'}
+REPO_MD9,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'message': 'no data'}
+REPO_MD10,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'message': 'no data'}
+REPO_MD11,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,{'message': 'no data'}
+REPO_MD12,https://github.com/fetchrobotics/fetch_robots,fetch_robots,Repositories,{'message': 'no data'}
+REPO_MD13,https://github.com/ros-interactive-manipulation/pr2_object_manipulation,pr2_object_manipulation,Repositories,{'message': 'no data'}
+REPO_MD14,https://github.com/leonard-lab/dcslROS,dcslROS,Repositories,{'message': 'no data'}
+REPO_MD15,https://github.com/uf-mil-archive/PropaGator,PropaGator,Repositories,{'message': 'no data'}
+REPO_MD16,https://github.com/ipa320/cob_command_tools,cob_command_tools,Repositories,{'message': 'no data'}
+REPO_MD17,https://github.com/super-owesome/bobble_controllers,bobble_controllers,Repositories,{'message': 'no data'}
+REPO_MD18,https://bitbucket.org/mitchell_scott/sphero_swarm_ros,sphero_swarm_ros,Repositories,{'message': 'no data'}
+REPO_MD19,https://github.com/pbouffard/ccny-ros-pkg-pbouffard,ccny-ros-pkg-pbouffard,Repositories,{'message': 'no data'}
+REPO_MD20,https://github.com/kuka-isir/cart_opt_ctrl,cart_opt_ctrl,Repositories,{'message': 'no data'}
+REPO_MD21,https://github.com/ipab-slmc/exotica,exotica,Repositories,{'message': 'no data'}
+REPO_MD22,https://github.com/ROBOTIS-GIT/ROBOTIS-OP3,ROBOTIS-OP3,Repositories,{'message': 'no data'}
+REPO_MD23,https://github.com/sourishg/jackal-navigation,jackal-navigation,Repositories,{'message': 'no data'}
+REPO_MD24,https://github.com/AUV-IITK/Anahita,Anahita,Repositories,{'message': 'no data'}
+REPO_MD25,https://github.com/ipa320/cob_environment_perception,cob_environment_perception,Repositories,{'message': 'no data'}
+REPO_MD26,https://github.com/PR2/pr2_plugs,pr2_plugs,Repositories,{'message': 'no data'}
+REPO_MD27,https://github.com/ipa320/srs_public,srs_public,Repositories,{'message': 'no data'}
+REPO_MD28,https://github.com/sigproc/qbo_sigproc,qbo_sigproc,Repositories,{'message': 'no data'}
+REPO_MD29,https://github.com/introlab/rtabmap_ros,rtabmap_ros,Repositories,{'message': 'no data'}
+REPO_MD30,https://github.com/PR2/pr2_robot,pr2_robot,Repositories,{'message': 'no data'}
+REPO_MD31,https://github.com/pal-robotics/perception_blort,perception_blort,Repositories,{'message': 'no data'}
+REPO_MD32,https://github.com/Pitt-RAS/iarc7_vision,iarc7_vision,Repositories,{'message': 'no data'}
+REPO_MD33,https://github.com/robotics-upo/upo_robot_navigation,upo_robot_navigation,Repositories,{'message': 'no data'}
+REPO_MD34,https://github.com/ridgeback/ridgeback_robot,ridgeback_robot,Repositories,{'message': 'no data'}
+REPO_MD35,https://github.com/AIS-Bonn/nimbro_network,nimbro_network,Repositories,{'message': 'no data'}
+REPO_MD36,https://github.com/dxydas/ros-bioloid,ros-bioloid,Repositories,{'message': 'no data'}
+REPO_MD37,https://github.com/lucasw/imgui_ros,imgui_ros,Repositories,{'message': 'no data'}
+REPO_MD38,https://github.com/mavlink/mavros,mavros,Repositories,{'message': 'no data'}
+REPO_MD39,https://github.com/ros-perception/image_pipeline,image_pipeline,Repositories,{'message': 'no data'}
+REPO_MD40,https://github.com/UTNuclearRoboticsPublic/jog_arm,jog_arm,Repositories,{'message': 'no data'}
+REPO_MD41,https://github.com/CalPolyRobotics/IGVC-ROS,IGVC-ROS,Repositories,{'message': 'no data'}
+REPO_MD42,https://github.com/RoboJackets/roboracing-software,roboracing-software,Repositories,{'message': 'no data'}
+REPO_MD43,https://github.com/IGVC-IITK/computer_vision,computer_vision,Repositories,{'message': 'no data'}
+REPO_MD44,https://github.com/kucars/haptic_teleoperation,haptic_teleoperation,Repositories,{'message': 'no data'}
+REPO_MD45,https://github.com/utexas-bwi/segbot,segbot,Repositories,{'message': 'no data'}
+REPO_MD46,https://github.com/RoboSherlock/robosherlock,robosherlock,Repositories,{'message': 'no data'}
+REPO_MD47,https://github.com/youbot/youbot-ros-pkg,youbot-ros-pkg,Repositories,{'message': 'no data'}
+REPO_MD48,https://github.com/PR2/pr2_controllers,pr2_controllers,Repositories,{'message': 'no data'}
+REPO_MD49,https://github.com/ros-planning/moveit,moveit,Repositories,{'message': 'no data'}
+REPO_MD50,https://github.com/AcutronicRobotics/moveit2,moveit2,Repositories,{'message': 'no data'}
+REPO_MD51,https://github.com/felixendres/rgbdslam_v2,rgbdslam_v2,Repositories,{'message': 'no data'}
+REPO_MD52,https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs,pandora_ros_pkgs,Repositories,{'message': 'no data'}
+REPO_MD53,https://github.com/jhu-lcsr/sp_segmenter,sp_segmenter,Repositories,{'message': 'no data'}
+REPO_MD54,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,{'message': 'no data'}
+REPO_MD55,https://github.com/billieblaze/ROS_Rover_addons,ROS_Rover_addons,Repositories,{'message': 'no data'}
+REPO_MD56,https://github.com/KCL-Planning/ROSPlan,ROSPlan,Repositories,{'message': 'no data'}
+REPO_MD57,https://github.com/start-jsk/rtmros_hironx,rtmros_hironx,Repositories,{'message': 'no data'}
+REPO_MD58,https://github.com/ildoonet/tf-pose-estimation,tf-pose-estimation,Repositories,{'message': 'no data'}
+REPO_MD59,https://github.com/yujinrobot/kobuki,kobuki,Repositories,{'message': 'no data'}
+REPO_MD60,https://github.com/sbrodeur/ros-icreate-bbb,ros-icreate-bbb,Repositories,{'message': 'no data'}
+REPO_MD61,https://github.com/inomuh/evapi_ros,evapi_ros,Repositories,{'message': 'no data'}
+REPO_MD62,https://github.com/BCLab-UNM/SwarmBaseCode-ROS,SwarmBaseCode-ROS,Repositories,{'message': 'no data'}
+REPO_MD63,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,{'message': 'no data'}
+REPO_MD64,https://github.com/AutonomyLab/bebop_autonomy,bebop_autonomy,Repositories,{'message': 'no data'}
+REPO_MD65,https://github.com/linorobot/linorobot,linorobot,Repositories,{'message': 'no data'}
+REPO_MD66,https://github.com/irvs/ros_tms,ros_tms,Repositories,{'message': 'no data'}
+REPO_MD67,https://github.com/AutonomyLab/create_autonomy,create_autonomy,Repositories,{'message': 'no data'}
+REPO_MD68,https://github.com/bluesat/owr_software,owr_software,Repositories,{'message': 'no data'}
+REPO_MD69,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'message': 'no data'}
+REPO_MD70,https://github.com/PilzDE/pilz_robots,pilz_robots,Repositories,{'acceptancetest_stop1': '- Properly connect and startup the robot and power cabinet containing the PNoz-Multi.\n    Make '}
+REPO_MD71,https://github.com/PilzDE/pilz_robots,pilz_robots,Repositories,{'acceptancetest_execute_brake_test': '- Properly connect and startup the robot and power cabinet containing the PSS4000.\n    Make sur'}
+REPO_MD72,https://github.com/PilzDE/pilz_robots,pilz_robots,Repositories,{'acceptancetest_execute_brake_test_with_gripper': '- Properly connect and startup the robot and power cabinet containing the PSS4000.\n    Make sur'}
+REPO_MD73,https://github.com/rospilot/rospilot,rospilot,Repositories,{'PLUGIN-GUIDE': ' of the greatest things about Leaflet is its powerful plugin ecosystem.\nThe [Leaflet plugins pa'}
+REPO_MD74,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,{'TELEOP': '        |\n| Home           | Display Wiimote battery level      |\n|                |             '}
+REPO_MD75,https://github.com/osu-uwrt/riptide_software,riptide_software,Repositories,"{'riptide_teleop': 'uld proces. Last, pressing the ""X"" will kill power to all thrusters.\n\n* Input Topics: /joy, /st'}"
+REPO_MD76,https://bitbucket.org/auengagroactu_sens/dji_matrice100_onboard_sdk_ros,dji_matrice100_onboard_sdk_ros,Repositories,{'Appendix': 'etry data\n\ttype: nav_msgs/Odometry\n\n/dji_sdk/power_status\n\tinfo: current battery info\n\ttype: dj'}
+REPO_MD77,https://github.com/ros-planning/navigation2,navigation2,Repositories,"{'requirements': 'it, for example, to shut down or enter a low-power state.\nMP009 | Mission Planning.Navigation C'}"
+REPO_MD78,https://bitbucket.org/whoidsl/ds_base,ds_base,Repositories,"{'IO_STATE_MACHINE': 'onse to user input.  For example, the Lambda power supply driver uses preempt commands to set t'}"
+REPO_MD79,https://github.com/jhu-asco/aerial_autonomy,aerial_autonomy,Repositories,{'creating_autonomy_application': '` keeps a `UAVSystem` from taking off if the battery level percentage\nis below some threshold.  G'}
+REPO_MD80,https://github.com/jhu-asco/aerial_autonomy,aerial_autonomy,Repositories,"{'background': 'tes. For example, if the quadrotor has a low battery warning, the quadrotor will not accept a goa'}"
+REPO_MD81,https://github.com/jsk-ros-pkg/jsk_robot,jsk_robot,Repositories,{'fade_leds': ' red channel (float 0-1)  \n`g`: intensity of green channel (float 0-1)  \n`b`: intensity of blue'}
+REPO_MD82,https://github.com/craftit/DogBotSoftware,DogBotSoftware,Repositories,"{'poweringup': 'when voltage dips below 26V**\n\nThere are two power options for DogBot, mains power or batteries'}"
+REPO_MD83,https://github.com/occamLab/tango_ros_bridge,tango_ros_bridge,Repositories,"{'index': 'lly, you will be able to leverage all of the powerful features of ROS (e.g., visualization tool'}"
+REPO_MD84,https://github.com/jsk-ros-pkg/jsk_visualization,jsk_visualization,Repositories,{'rqt_drc_mini_maxwell': 'n it smiles and the background color becomes green.\n\n\nSample\n------\n\n```\n$ roslaunch jsk_rqt_pl'}
+REPO_MD85,https://github.com/jsk-ros-pkg/jsk_visualization,jsk_visualization,Repositories,{'rqt_status_light': '------------------------------\n\n* `1`:       green\n* `2`:       yellow\n* `(other)`: gray\n\n\nUsag'}
+REPO_MD86,https://github.com/cpaxton/costar_stack,costar_stack,Repositories,"{'collect_data': ',white_bin \\\n  foreground_labels:=blue_block,green_block,red_block,yellow_block \\\n  kmeans_poin'}"
+REPO_MD87,https://github.com/CopterExpress/clever,clever,Repositories,"{'power': 'считанное значение.\n\n<img src=""../assets/qgc-battery.png"" class=""zoom"">\n\nДополнительная информаци'}"
+REPO_MD88,https://github.com/CopterExpress/clever,clever,Repositories,"{'leds_old': 'ет \\(red\\), следующие 8 бит - зелёный цвет \\(green\\) и последние 8 бит - голубой \\(blue\\). Для '}"
+REPO_MD89,https://github.com/CopterExpress/clever,clever,Repositories,{'modes': '_modes.html.\n\n**Далее**: [Настройка питания](power).\n'}
+REPO_MD90,https://github.com/CopterExpress/clever,clever,Repositories,"{'leds': 'одимо корректная [калибровка электропитания](power#Калибровка-делителя-напряжения).\n\nДля того, '}"
+REPO_MD91,https://github.com/CopterExpress/clever,clever,Repositories,{'aruco_marker': ' правую сторону маркера;\n* ось **<font color=green>y</font>** указывает кверху маркера;\n* ось *'}
+REPO_MD92,https://github.com/CopterExpress/clever,clever,Repositories,{'ssh': 'ожно использовать [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) или в'}
+REPO_MD93,https://github.com/CopterExpress/clever,clever,Repositories,"{'snippets': "", velocity_update)\nrospy.Subscriber('/mavros/battery', BatteryState, battery_update)\nrospy.Subscr""}"
+REPO_MD94,https://github.com/CopterExpress/clever,clever,Repositories,{'models': 'левер 4\n\n### 3D печать\n\n* **АКБ холдер** – [`battery_holder.stl`](https://github.com/CopterExpres'}
+REPO_MD95,https://github.com/CopterExpress/clever,clever,Repositories,{'camera_setup': 'вает направо на изображении;\n* **<font color=green>y</font>** указывает вниз на изображении;\n* '}
+REPO_MD96,https://github.com/CopterExpress/clever,clever,Repositories,{'SUMMARY': 'етные режимы](modes)\n  * [Настройка питания](power)\n  * [Настройка failsafe](failsafe)\n* Работа'}
+REPO_MD97,https://github.com/CopterExpress/clever,clever,Repositories,{'aruco_map': ' сторону карты маркеров;\n* ось **<font color=green>y</font>** указывает кверху карты маркеров;\n'}
+REPO_MD98,https://github.com/CopterExpress/clever,clever,Repositories,{'assemble_3': 'питания Raspberry:\n\n        5В -> pin 04 (DC power 5v)\n        GND -> pin 06 (Ground)\n        П'}
+REPO_MD99,https://github.com/CopterExpress/clever,clever,Repositories,{'assemble_2': ' АКБ\n\n![Подготовка отсека АКБ](../assets/casebattery.jpg)\n\n* Приклеить наклейки с разметкой внутр'}
+REPO_MD100,https://github.com/CopterExpress/clever,clever,Repositories,"{'nti2019': 'полнения всей ленты указанным цветом.\n# red, green, blue - интенсивность красного, зелёного, си'}"
+REPO_MD101,https://github.com/fkie/iop_core,iop_core,Repositories,{'other_packages': '_\n    - fkie_iop_illumination\n    - fkie_iop_power_plant\n    - fkie_iop_stabilizer_driver\n\n\n## '}
+REPO_MD102,https://github.com/jsk-ros-pkg/jsk_recognition,jsk_recognition,Repositories,"{'calibration': 'hen u finished calibration(4 features become green), wait patiently until u can click upload, c'}"
+REPO_MD103,https://github.com/jsk-ros-pkg/jsk_recognition,jsk_recognition,Repositories,"{'interactive_cuboid_likelihood': 'ompute likelihood.\n\n* `~plane_distance_error_power` (Float, default: `2.0`)\n\n  Power used for c'}"
+REPO_MD104,https://github.com/jsk-ros-pkg/jsk_recognition,jsk_recognition,Repositories,"{'snake_segmentaion': 'e, default: `0.1`)\n\n  weight of connectivity energy\n\n* `~beta` (double, default: `0.1`)\n\n  weigh'}"
+REPO_MD105,https://github.com/jsk-ros-pkg/jsk_recognition,jsk_recognition,Repositories,{'rgb_decomposer': 'output/red` (`sensor_msgs/Image`)\n* `~output/green` (`sensor_msgs/Image`)\n* `~output/blue` (`se'}
+REPO_MD106,https://github.com/JHS-ARCC-Club/jetson_car,jetson_car,Repositories,{'ISSUE_TEMPLATE': '  \n\n  - **Be sure you are supplying adequate power to the board.**  Check the specs of\n    your'}
+REPO_MD107,https://github.com/olin-robotic-sailing/oars-roboboat,oars-roboboat,Repositories,"{'ros_topics': 'rning the boat right. (Float32)\n* `propeller_power` Power provided to the propeller, with 0 bei'}"
+REPO_MD108,https://github.com/team-vigir/vigir_footstep_planning_core,vigir_footstep_planning_core,Repositories,"{'LICENSE': 'u convey a covered work, you waive any legal power to forbid\ncircumvention of technological mea'}"
+REPO_MD109,https://github.com/b-it-bots/mas_domestic_robotics,mas_domestic_robotics,Repositories,"{'LICENSE': 'u convey a covered work, you waive any legal power to forbid\ncircumvention of technological mea'}"
+REPO_MD110,https://github.com/AutoRally/autorally,autorally,Repositories,"{'LICENSE': ' of this definition, ""control"" means (i) the power, direct or\nindirect, to cause the direction '}"
+REPO_MD111,https://github.com/Nsteel/Apollo_13,Apollo_13,Repositories,"{'LICENSE': 'u convey a covered work, you waive any legal power to forbid\ncircumvention of technological mea'}"
+REPO_MD112,https://github.com/RightHandRobotics/reflex-ros-pkg,reflex-ros-pkg,Repositories,"{'LICENSE': 'is definition,\n      ""control"" means (i) the power, direct or indirect, to cause the\n      dire'}"
+REPO_MD113,https://github.com/RoboJackets/igvc-software,igvc-software,Repositories,"{'readme': '.shields.io/badge/Software%20Lead-Oswin%20So-green?color=EEB211&logo=data:image/png;base64,iVBO'}"
+REPO_MD114,https://github.com/RoboJackets/igvc-software,igvc-software,Repositories,{'iop': 's acceptable.\n> The team **shall NOT connect power to this connector** at this time – **only th'}
+REPO_MD115,https://github.com/RoboJackets/igvc-software,igvc-software,Repositories,"{'FirmwareRefactor': 'e robot (current motor speed, e-stop status, battery voltage)\n\nThe mbed and the computer communic'}"
+REPO_MD116,https://github.com/RoboJackets/igvc-software,igvc-software,Repositories,{'mapping_refactor': 'nd non lines\n\n## Overall Scope\n- Expected manpower: 1 / 2\n- Expected time: 3 weeks\n'}
+REPO_MD117,https://github.com/RoboJackets/igvc-software,igvc-software,Repositories,"{'low_performance_mode': 'inaccuracies, it would overall save time and energy when testing. The second part of this proble'}"
+REPO_MD118,https://github.com/at-wat/mcl_3dl,mcl_3dl,Repositories,{'Algorithms': ' good matching result with light computation power.\nThe node calculates a likelihood of each pa'}
+REPO_MD119,https://github.com/uwreact/frc_control,frc_control,Repositories,"{'DESIGN': '\n`ros_control` and `ros_controllers` provide powerful tools for working with\npowerful, smart ac'}"
+REPO_MD120,https://github.com/tork-a/rtmros_nextage,rtmros_nextage,Repositories,{'manual_ja_start': 'obot%20Users?action=AttachFile&do=get&target=powerbutton_ubuntu.jpg)\n![UI Control Box - Monitor'}
+REPO_MD121,https://github.com/tork-a/rtmros_nextage,rtmros_nextage,Repositories,{'manual_ja_tutorial_python-if': '_bridge?action=AttachFile&do=get&target=hiro_powerOff.png)\n\n#### hrpsys-based API のソースとドキュメント\n\n'}
+REPO_MD122,https://github.com/corobotics/corobot-kinetic,corobot-kinetic,Repositories,"{'STARTUP': '- otherwise, the Kinect or Create may not be powered/connected.\n\nIn another terminal, run:\n\n* `'}"
+REPO_MD123,https://github.com/yijiangh/choreo,choreo,Repositories,{'faq': '  This is the trend. And GitHub is much more powerful and convenient.\n'}
+REPO_MD124,https://github.com/UBC-Thunderbots/Softwareubc,Softwareubc,Repositories,"{'HowToBuildAndFlashFirmware': 's puts the robot in ""boot mode""\n3. Flick the power switch to turn on the robot, AND HOLD THE SW'}"
+REPO_MD125,https://github.com/UBC-Thunderbots/Softwareubc,Softwareubc,Repositories,"{'software-architecture-and-design': 'nding on who you ask, templating in C++ is a powerful tool that is very useful to understand. ['}"
+REPO_MD126,https://github.com/UBC-Thunderbots/Softwareubc,Softwareubc,Repositories,"{'code-style-guide': ' // Incorrect\n  // This function returns the power\n  float power(float a, float b);\n\n  // Corre'}"
+REPO_MD127,https://github.com/UBC-Thunderbots/Softwareubc,Softwareubc,Repositories,"{'getting-started': '`!\n2. Add a custom build configuration (more powerful, so make sure you understand this!)\n    1'}"
+REPO_MD128,https://github.com/robotican/lizi,lizi,Repositories,{'README': '/rear``` - Rear ultrasonic range finder\n\n```/battery``` - Battery info\n\n```/mobile_base_controlle'}
+REPO_MD129,https://github.com/NiryoRobotics/niryo_one_ros,niryo_one_ros,Repositories,"{'README': 'ticle on Raspberry Pi, where the computation power is quite low compared to a standard laptop.\n'}"
+REPO_MD130,https://github.com/PX4/avoidance,avoidance,Repositories,"{'README': "" *local_planner* requires less computational power but it doesn't compute optimal paths towards""}"
+REPO_MD131,https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-MPC,ROBOTIS-THORMANG-MPC,Repositories,"{'README': 'd robot platform with advanced\ncomputational power, sophisticated sensors, high payload capacit'}"
+REPO_MD132,https://github.com/utexas-bwi/bwi_common,bwi_common,Repositories,{'README': 'nch files assume you are running on a kinect powered robot.\nComments in the launch file will pr'}
+REPO_MD133,https://github.com/UbiquityRobotics/ubiquity_launches,ubiquity_launches,Repositories,{'README': 'w plug the micro-SD card into the RasPi2 and power it up.\n   Wait for a minute or so and do the'}
+REPO_MD134,https://github.com/gribot-robotics/gribot_ros,gribot_ros,Repositories,"{'README': 'ts.\n\nWe want to accelerate the transition to sustainable development, which is why we distribute al'}"
+REPO_MD135,https://github.com/gribot-robotics/gribot_ros,gribot_ros,Repositories,{'CONTRIBUTING': 'ld open a suggestion issue first and have it greenlighted before working on it.\n- If fixing a b'}
+REPO_MD136,https://github.com/omwdunkley/crazyflieROS,crazyflieROS,Repositories,"{'README': '10 pin expansion header (I2C, UART, SPI/ADC, power, etc)\n  \n\n### Sensors\n  * 3 axis gyro\n    * '}"
+REPO_MD137,https://github.com/SJSU-AD/FusionAD,FusionAD,Repositories,"{'README': 'hina. <br>\nBenefiting from local manufacture power and convenient global logistic system, <br>\n'}"
+REPO_MD138,https://github.com/DrawZeroPoint/drv_package_v2,drv_package_v2,Repositories,{'README': '4. Usage\n1. Run `roscore` first. Plug in the power supply and cables of NVG.\n2. There are multi'}
+REPO_MD139,https://github.com/Kivo0/Visual-Servoing-ROS,Visual-Servoing-ROS,Repositories,"{'README': 'ebot2 includes YUJIN Kobuki base, a 2200 mAh battery pack, a **KinectV1** sensor, and an Asus 121'}"
+REPO_MD140,https://github.com/ros-industrial-consortium/trajopt_ros,trajopt_ros,Repositories,"{'README': ' it. While it is quite complex, it shows the power of TrajOpt to plan using external axes and r'}"
+REPO_MD141,https://github.com/airalab/robonomics_comm,robonomics_comm,Repositories,{'README': 'tp://img.shields.io/badge/license-BSD3-brightgreen.svg)\n\n> This is reference implementation of '}
+REPO_MD142,https://github.com/pantor/ros-control-center,ros-control-center,Repositories,"{'README': 'like a console (rosout by default) output, a battery status view, a camera stream view or an adva'}"
+REPO_MD143,https://github.com/doosan-robotics/doosan-robot,doosan-robot,Repositories,{'README': '//img.shields.io/:license-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache'}
+REPO_MD144,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'README': ' VS Code by pressing `F5` or by clicking the green debug icon. You can now write code, set brea'}"
+REPO_MD145,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,"{'BehaviorPlanning': 'cies,\nI have in mind internal ones, like low battery, unexpected motor shutoffs (fuses), cliffs, '}"
+REPO_MD146,https://github.com/ros-industrial/universal_robot,universal_robot,Repositories,{'README': '//img.shields.io/:license-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache'}
+REPO_MD147,https://bitbucket.org/_Luc_/hand_control,hand_control,Repositories,"{'README': 'he roof.\n* for a glove or a *colored* panel (green, blue, etc.), we generaly have :\n    - `hue`'}"
+REPO_MD148,https://github.com/tork-a/jog_control,jog_control,Repositories,{'README': '/input/`. Please note some joypad need to be powered on. (XBox\nwireless has a silver power butt'}
+REPO_MD149,https://github.com/ethz-asl/cuckoo_time_translator,cuckoo_time_translator,Repositories,"{'README': 'et), such as the offset from the blue to the green points above.\nIn particular in the one way c'}"
+REPO_MD150,https://github.com/OUXT-Polaris/robotx_packages,robotx_packages,Repositories,{'README': '       | 46104 w/ Green Cover     | ADDED  | green_totem |\n| Yellow Totem                 | 461'}
+REPO_MD151,https://github.com/patrickelectric/bluerov_ros_playground,bluerov_ros_playground,Repositories,{'README': 'eRov2/arm** - `std_msgs/Bool`\n - **/BlueRov2/battery** - `sensor_msgs/BatteryState`\n - **/BlueRov'}
+REPO_MD152,https://github.com/patrickelectric/bluerov_ros_playground,bluerov_ros_playground,Repositories,"{'topics_and_data': 'et_local"": {}\n    },\n    ""battery"": {\n      ""power_supply_status"": 2,\n      ""capacity"": ""nan"",\n'}"
+REPO_MD153,https://github.com/Kinovarobotics/kinova-ros,kinova-ros,Repositories,{'README': 'o the left when facing the base panel (where power switch and cable socket locate).\n- +y axis i'}
+REPO_MD154,https://github.com/berkeleyopenarms/blue_core,blue_core,Repositories,"{'README': 'r examples)\n\n- Proceed to setup the arm with power supply and USB adapter (""Electrical Setup"" i'}"
+REPO_MD155,https://github.com/rapp-project/rapp-platform,rapp-platform,Repositories,{'README': 'gating is applied in the individual sample’s power when compared with the RMS value.\n\nService U'}

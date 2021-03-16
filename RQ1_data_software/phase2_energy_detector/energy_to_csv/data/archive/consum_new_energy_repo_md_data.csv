@@ -1,0 +1,38 @@
+ID,URL,Repo Name,Collection,C/C++ Contents
+REPO_MD0,https://github.com/ipa320/srs_public,srs_public,Repositories,{'message': 'no data'}
+REPO_MD1,https://github.com/tum-phoenix/phx_quadrocopter_ros,phx_quadrocopter_ros,Repositories,{'message': 'no data'}
+REPO_MD2,https://bitbucket.org/guiche/rosebot_description,rosebot_description,Repositories,{'message': 'no data'}
+REPO_MD3,https://github.com/start-jsk/rtmros_hironx,rtmros_hironx,Repositories,{'message': 'no data'}
+REPO_MD4,https://github.com/JHS-ARCC-Club/jetson_car,jetson_car,Repositories,{'message': 'no data'}
+REPO_MD5,https://github.com/AIS-Bonn/nimbro_network,nimbro_network,Repositories,{'message': 'no data'}
+REPO_MD6,https://github.com/elpimous/Neo_robot,Neo_robot,Repositories,{'message': 'no data'}
+REPO_MD7,https://github.com/start-jsk/rtmros_common,rtmros_common,Repositories,{'message': 'no data'}
+REPO_MD8,https://github.com/EndPointCorp/lg_ros_nodes,lg_ros_nodes,Repositories,{'message': 'no data'}
+REPO_MD9,https://github.com/UBC-Snowbots/Snowflake,Snowflake,Repositories,{'message': 'no data'}
+REPO_MD10,https://bitbucket.org/whoidsl/ds_base,ds_base,Repositories,{'message': 'no data'}
+REPO_MD11,https://github.com/RoboSherlock/robosherlock,robosherlock,Repositories,{'message': 'no data'}
+REPO_MD12,https://github.com/ros-planning/moveit,moveit,Repositories,{'message': 'no data'}
+REPO_MD13,https://github.com/AcutronicRobotics/moveit2,moveit2,Repositories,{'message': 'no data'}
+REPO_MD14,https://github.com/felixendres/rgbdslam_v2,rgbdslam_v2,Repositories,{'message': 'no data'}
+REPO_MD15,https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs,pandora_ros_pkgs,Repositories,{'message': 'no data'}
+REPO_MD16,https://github.com/billieblaze/ROS_Rover_addons,ROS_Rover_addons,Repositories,{'message': 'no data'}
+REPO_MD17,https://github.com/KCL-Planning/ROSPlan,ROSPlan,Repositories,{'message': 'no data'}
+REPO_MD18,https://github.com/tuw-robotics/tuw_marker_detection,tuw_marker_detection,Repositories,{'message': 'no data'}
+REPO_MD19,https://github.com/berkeleyopenarms/blue_core,blue_core,Repositories,{'message': 'no data'}
+REPO_MD20,https://bitbucket.org/whoidsl/ds_sensors,ds_sensors,Repositories,{'message': 'no data'}
+REPO_MD21,https://github.com/occamLab/tango_ros_bridge,tango_ros_bridge,Repositories,{'index': 'publishes it in on a topic so that it can be consumed by client ROS nodes.\n\n# Sample Use Cases\nH'}
+REPO_MD22,https://github.com/fkie/iop_core,iop_core,Repositories,"{'howto_minimal_config': 'ion of client service of the OCU, since they consumes only the functionality of robot service. A'}"
+REPO_MD23,https://github.com/fkie/iop_core,iop_core,Repositories,"{'how_it_works': 'he ROS/IOP-Bridge components on the OCU side consume the JAUS data, e.g. of the PrimitiveDriver.'}"
+REPO_MD24,https://github.com/team-vigir/vigir_footstep_planning_core,vigir_footstep_planning_core,Repositories,"{'LICENSE': 'e work.\n\n  A ""User Product"" is either (1) a ""consumer product"", which means any\ntangible persona'}"
+REPO_MD25,https://github.com/b-it-bots/mas_domestic_robotics,mas_domestic_robotics,Repositories,"{'LICENSE': 'e work.\n\n  A ""User Product"" is either (1) a ""consumer product"", which means any\ntangible persona'}"
+REPO_MD26,https://github.com/Nsteel/Apollo_13,Apollo_13,Repositories,"{'LICENSE': 'e work.\n\n  A ""User Product"" is either (1) a ""consumer product"", which means any\ntangible persona'}"
+REPO_MD27,https://github.com/yijiangh/choreo,choreo,Repositories,"{'faq': 's is an optimization which can reduce memory consumption and improve performance, but the input '}"
+REPO_MD28,https://github.com/yijiangh/choreo,choreo,Repositories,{'features': ' a generator API (`rapidjson::Writer`) which consumes the same set of events.\n* DOM (Document Ob'}
+REPO_MD29,https://github.com/yijiangh/choreo,choreo,Repositories,"{'dom': 'e` does not do so, in order to reduce memory consumption.\n\nThe default allocator used in `Generi'}"
+REPO_MD30,https://github.com/yijiangh/choreo,choreo,Repositories,{'sax': ' the user needs to implement a handler which consumes the events (via function calls) from the `'}
+REPO_MD31,https://github.com/yijiangh/choreo,choreo,Repositories,"{'internals': '  |\n\nHere are some notes:\n* To reduce memory consumption for 64-bit architecture, `SizeType` is '}"
+REPO_MD32,https://github.com/yijiangh/choreo,choreo,Repositories,"{'stream': ' byte stream, it is needed to detect or just consume the BOM if exists. When writing to a byte s'}"
+REPO_MD33,https://github.com/duckietown/Softwareduck,Softwareduck,Repositories,"{'software-architecture-and-design': 'roduced, and [Primitves](#primitives) may be consumed. The interface is very generic so that dif'}"
+REPO_MD34,https://github.com/jsk-ros-pkg/jsk_common,jsk_common,Repositories,{'README': 'nd of re-sending packets takes much time and consumes bandwidth for example TCP re-sending.\n* Re'}
+REPO_MD35,https://github.com/fetchrobotics/fetch_robots,fetch_robots,Repositories,"{'README': 'df).\n\nThis public repository, is designed to consume the output of our private `fetch_drivers` r'}"
+REPO_MD36,https://github.com/chrisl8/ArloBot,ArloBot,Repositories,{'README': 'scripts@0.2.3` and higher.\n\nYour project can consume variables declared in your environment as i'}
