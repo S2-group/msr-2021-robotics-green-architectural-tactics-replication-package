@@ -2,6 +2,8 @@
 
 This is the replication package of the paper titled **Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation** and published at MSR 2021.
 
+[![Teaser video about the study](http://img.youtube.com/vi/hyve2GRV6v4/0.jpg)](http://www.youtube.com/watch?v=hyve2GRV6v4 "Teaser video about the study")
+
 This study has been designed, developed, and reported by the following investigators:
 
 - [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
